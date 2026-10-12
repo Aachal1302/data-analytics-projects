@@ -1,0 +1,1001 @@
+﻿session_id,customer_id,session_date,device_type,customer_type,location,traffic_channel,campaign_type
+S00001,C00026,2026-02-27 00:00:00,Desktop,New,Nagpur,Email,New User Offer
+S00002,C00605,2026-02-14 00:00:00,Mobile,New,Bengaluru,Organic,Summer Sale
+S00003,C00666,2026-04-12 00:00:00,Desktop,New,Noida,Social Media,Retargeting
+S00004,C00164,2026-01-04 00:00:00,Desktop,New,Nagpur,Organic,New User Offer
+S00005,C00095,2026-02-22 00:00:00,Mobile,New,Delhi,Social Media,Retargeting
+S00006,C00550,2026-08-24 00:00:00,Mobile,Returning,Pune,Social Media,Retargeting
+S00007,C00592,2026-07-05 00:00:00,Mobile,New,Ahmedabad,Organic,Unknown
+S00008,C00239,2026-02-10 00:00:00,Desktop,New,Noida,Social Media,Festival Sale
+S00009,C00364,2026-07-09 00:00:00,Mobile,New,Surat,Email,Unknown
+S00010,C00547,2026-03-29 00:00:00,Desktop,New,Gurugram,Organic,Flash Sale
+S00011,C00333,2026-04-23 00:00:00,Desktop,Returning,Bengaluru,Direct,Retargeting
+S00012,C00275,2026-07-25 00:00:00,Mobile,Returning,Kolkata,Direct,Unknown
+S00013,C00406,2026-09-13 00:00:00,Desktop,Returning,Nagpur,Organic,Unknown
+S00014,C00599,2026-05-15 00:00:00,Mobile,Returning,Delhi,Organic,Flash Sale
+S00015,C00506,2026-09-18 00:00:00,Mobile,New,Pune,Organic,Unknown
+S00016,C00611,2026-08-05 00:00:00,Mobile,New,Noida,Social Media,Flash Sale
+S00017,C00697,2026-01-06 00:00:00,Desktop,Returning,Chennai,Direct,New User Offer
+S00018,C00115,2026-06-24 00:00:00,Mobile,New,Mumbai,Referral,Retargeting
+S00019,C00513,2026-05-15 00:00:00,Desktop,New,Pune,Direct,Unknown
+S00020,C00624,2026-09-17 00:00:00,Mobile,New,Nagpur,Social Media,Retargeting
+S00021,C00001,2026-09-29 00:00:00,Mobile,New,Pune,Referral,Retargeting
+S00022,C00246,2026-06-07 00:00:00,Mobile,Returning,Pune,Organic,Festival Sale
+S00023,C00546,2026-02-05 00:00:00,Desktop,New,Noida,Referral,Unknown
+S00024,C00622,2026-09-28 00:00:00,Mobile,New,Chennai,Direct,New User Offer
+S00025,C00409,2026-06-09 00:00:00,Tablet,Returning,Noida,Direct,Festival Sale
+S00026,C00231,2026-05-07 00:00:00,Mobile,New,Chennai,Organic,Unknown
+S00027,C00647,2026-02-06 00:00:00,Mobile,New,Mumbai,Direct,Unknown
+S00028,C00286,2026-05-02 00:00:00,Desktop,New,Nagpur,Email,Retargeting
+S00029,C00249,2026-08-31 00:00:00,Desktop,Returning,Bengaluru,Organic,New User Offer
+S00030,C00434,2026-07-01 00:00:00,Mobile,Returning,Mumbai,Email,Flash Sale
+S00031,C00063,2026-02-20 00:00:00,Mobile,New,Nashik,Organic,Unknown
+S00032,C00144,2026-08-18 00:00:00,Mobile,New,Bengaluru,Direct,Unknown
+S00033,C00052,2026-02-20 00:00:00,Desktop,New,Mumbai,Referral,Flash Sale
+S00034,C00171,2026-05-02 00:00:00,Mobile,New,Nashik,Paid Search,Unknown
+S00035,C00003,2026-07-14 00:00:00,Tablet,New,Indore,Direct,Unknown
+S00036,C00159,2026-09-07 00:00:00,Mobile,New,Mumbai,Social Media,Summer Sale
+S00037,C00059,2026-06-10 00:00:00,Mobile,New,Surat,Direct,Unknown
+S00038,C00083,2026-09-18 00:00:00,Desktop,New,Pune,Email,Unknown
+S00039,C00584,2026-03-03 00:00:00,Mobile,Returning,Kolkata,Organic,New User Offer
+S00040,C00324,2026-09-25 00:00:00,Tablet,New,Jaipur,Paid Search,Unknown
+S00041,C00688,2026-03-09 00:00:00,Desktop,New,Surat,Direct,Unknown
+S00042,C00637,2026-08-23 00:00:00,Tablet,Returning,Pune,Social Media,Summer Sale
+S00043,C00358,2026-03-09 00:00:00,Desktop,Returning,Delhi,Paid Search,Festival Sale
+S00044,C00627,2026-06-04 00:00:00,Tablet,Returning,Chennai,Organic,Retargeting
+S00045,C00680,2026-06-03 00:00:00,Mobile,Returning,Hyderabad,Organic,Unknown
+S00046,C00279,2026-03-21 00:00:00,Mobile,New,Delhi,Organic,Summer Sale
+S00047,C00518,2026-05-16 00:00:00,Mobile,Returning,Nashik,Organic,Summer Sale
+S00048,C00046,2026-05-22 00:00:00,Mobile,Returning,Ahmedabad,Referral,Unknown
+S00049,C00565,2026-08-15 00:00:00,Desktop,New,Pune,Organic,Retargeting
+S00050,C00559,2026-03-18 00:00:00,Mobile,New,Chennai,Organic,Unknown
+S00051,C00374,2026-06-07 00:00:00,Desktop,Returning,Nashik,Organic,Festival Sale
+S00052,C00683,2026-05-08 00:00:00,Mobile,Returning,Surat,Direct,Flash Sale
+S00053,C00243,2026-03-21 00:00:00,Desktop,Returning,Indore,Organic,Festival Sale
+S00054,C00341,2026-04-02 00:00:00,Desktop,New,Ahmedabad,Direct,Retargeting
+S00055,C00164,2026-05-17 00:00:00,Desktop,New,Nashik,Organic,Festival Sale
+S00056,C00472,2026-04-13 00:00:00,Mobile,Returning,Nashik,Organic,Unknown
+S00057,C00409,2026-04-09 00:00:00,Mobile,Returning,Indore,Organic,Summer Sale
+S00058,C00696,2026-07-24 00:00:00,Tablet,New,Mumbai,Organic,Flash Sale
+S00059,C00595,2026-04-02 00:00:00,Tablet,New,Pune,Social Media,Unknown
+S00060,C00447,2026-06-10 00:00:00,Desktop,New,Gurugram,Direct,Unknown
+S00061,C00447,2026-01-23 00:00:00,Mobile,Returning,Chennai,Email,Flash Sale
+S00062,C00373,2026-04-11 00:00:00,Mobile,Returning,Surat,Paid Search,Unknown
+S00063,C00308,2026-03-05 00:00:00,Mobile,Returning,Delhi,Paid Search,Unknown
+S00064,C00197,2026-03-07 00:00:00,Mobile,Returning,Ahmedabad,Direct,Unknown
+S00065,C00416,2026-06-04 00:00:00,Mobile,New,Hyderabad,Organic,Retargeting
+S00066,C00477,2026-06-14 00:00:00,Mobile,Returning,Chennai,Social Media,Flash Sale
+S00067,C00675,2026-03-28 00:00:00,Mobile,New,Ahmedabad,Social Media,Unknown
+S00068,C00689,2026-05-01 00:00:00,Mobile,Returning,Nagpur,Organic,Unknown
+S00069,C00626,2026-09-01 00:00:00,Desktop,New,Gurugram,Direct,Summer Sale
+S00070,C00507,2026-07-16 00:00:00,Mobile,New,Jaipur,Organic,New User Offer
+S00071,C00436,2026-02-24 00:00:00,Mobile,Returning,Jaipur,Social Media,Unknown
+S00072,C00125,2026-05-08 00:00:00,Mobile,Returning,Ahmedabad,Social Media,Summer Sale
+S00073,C00454,2026-06-12 00:00:00,Desktop,Returning,Chennai,Paid Search,Flash Sale
+S00074,C00163,2026-08-17 00:00:00,Desktop,New,Hyderabad,Direct,Retargeting
+S00075,C00534,2026-05-22 00:00:00,Mobile,New,Noida,Organic,Unknown
+S00076,C00344,2026-05-20 00:00:00,Mobile,New,Nagpur,Organic,Festival Sale
+S00077,C00220,2026-03-20 00:00:00,Mobile,New,Chennai,Social Media,Unknown
+S00078,C00399,2026-08-04 00:00:00,Desktop,Returning,Jaipur,Organic,Retargeting
+S00079,C00489,2026-07-14 00:00:00,Mobile,New,Indore,Paid Search,Retargeting
+S00080,C00552,2026-08-03 00:00:00,Desktop,New,Kolkata,Direct,Festival Sale
+S00081,C00447,2026-05-20 00:00:00,Mobile,New,Ahmedabad,Email,Festival Sale
+S00082,C00479,2026-03-26 00:00:00,Desktop,Returning,Chennai,Organic,Festival Sale
+S00083,C00086,2026-01-14 00:00:00,Desktop,New,Noida,Organic,Unknown
+S00084,C00217,2026-06-17 00:00:00,Mobile,New,Surat,Paid Search,New User Offer
+S00085,C00259,2026-08-04 00:00:00,Desktop,New,Jaipur,Social Media,Flash Sale
+S00086,C00230,2026-06-29 00:00:00,Desktop,Returning,Ahmedabad,Organic,Unknown
+S00087,C00205,2026-05-07 00:00:00,Desktop,Returning,Bengaluru,Organic,New User Offer
+S00088,C00477,2026-04-22 00:00:00,Desktop,Returning,Nagpur,Social Media,Flash Sale
+S00089,C00168,2026-02-28 00:00:00,Tablet,New,Mumbai,Referral,Summer Sale
+S00090,C00407,2026-07-12 00:00:00,Tablet,New,Kolkata,Email,Summer Sale
+S00091,C00309,2026-02-22 00:00:00,Desktop,Returning,Pune,Direct,Summer Sale
+S00092,C00356,2026-01-22 00:00:00,Mobile,Returning,Pune,Social Media,Unknown
+S00093,C00502,2026-08-04 00:00:00,Mobile,Returning,Ahmedabad,Direct,Festival Sale
+S00094,C00446,2026-03-20 00:00:00,Mobile,New,Ahmedabad,Organic,Retargeting
+S00095,C00477,2026-09-05 00:00:00,Mobile,Returning,Hyderabad,Paid Search,Unknown
+S00096,C00286,2026-02-14 00:00:00,Desktop,New,Noida,Social Media,New User Offer
+S00097,C00030,2026-06-22 00:00:00,Mobile,New,Noida,Organic,Retargeting
+S00098,C00287,2026-06-24 00:00:00,Desktop,Returning,Hyderabad,Social Media,Summer Sale
+S00099,C00088,2026-04-08 00:00:00,Mobile,New,Chennai,Direct,New User Offer
+S00100,C00459,2026-09-09 00:00:00,Desktop,New,Bengaluru,Paid Search,Unknown
+S00101,C00485,2026-07-08 00:00:00,Mobile,New,Jaipur,Social Media,Festival Sale
+S00102,C00278,2026-08-21 00:00:00,Mobile,New,Jaipur,Organic,Unknown
+S00103,C00197,2026-04-05 00:00:00,Mobile,New,Jaipur,Social Media,New User Offer
+S00104,C00103,2026-05-25 00:00:00,Desktop,New,Delhi,Organic,Unknown
+S00105,C00130,2026-10-01 00:00:00,Mobile,Returning,Chennai,Paid Search,Flash Sale
+S00106,C00106,2026-09-09 00:00:00,Desktop,New,Noida,Social Media,Unknown
+S00107,C00259,2026-01-27 00:00:00,Tablet,New,Nashik,Organic,Festival Sale
+S00108,C00156,2026-01-28 00:00:00,Mobile,New,Hyderabad,Organic,Unknown
+S00109,C00621,2026-08-02 00:00:00,Mobile,Returning,Indore,Social Media,Festival Sale
+S00110,C00305,2026-08-15 00:00:00,Desktop,Returning,Hyderabad,Social Media,Unknown
+S00111,C00213,2026-02-20 00:00:00,Desktop,New,Pune,Organic,Unknown
+S00112,C00161,2026-02-08 00:00:00,Mobile,New,Kolkata,Social Media,Unknown
+S00113,C00290,2026-05-28 00:00:00,Desktop,New,Ahmedabad,Organic,Unknown
+S00114,C00436,2026-04-12 00:00:00,Mobile,New,Nagpur,Direct,Retargeting
+S00115,C00062,2026-02-06 00:00:00,Mobile,New,Jaipur,Direct,Flash Sale
+S00116,C00128,2026-08-13 00:00:00,Mobile,New,Gurugram,Referral,Summer Sale
+S00117,C00449,2026-09-10 00:00:00,Mobile,New,Gurugram,Email,Summer Sale
+S00118,C00094,2026-01-14 00:00:00,Mobile,Returning,Nashik,Social Media,Flash Sale
+S00119,C00591,2026-05-18 00:00:00,Mobile,Returning,Noida,Social Media,Festival Sale
+S00120,C00186,2026-05-23 00:00:00,Tablet,New,Nashik,Social Media,Unknown
+S00121,C00419,2026-06-28 00:00:00,Mobile,Returning,Nashik,Organic,Festival Sale
+S00122,C00296,2026-09-11 00:00:00,Desktop,New,Indore,Social Media,Festival Sale
+S00123,C00259,2026-06-11 00:00:00,Mobile,Returning,Gurugram,Direct,Retargeting
+S00124,C00674,2026-01-01 00:00:00,Desktop,New,Mumbai,Organic,Festival Sale
+S00125,C00641,2026-09-13 00:00:00,Mobile,New,Hyderabad,Social Media,Flash Sale
+S00126,C00497,2026-08-13 00:00:00,Mobile,Returning,Kolkata,Direct,New User Offer
+S00127,C00565,2026-06-09 00:00:00,Mobile,New,Bengaluru,Referral,Flash Sale
+S00128,C00121,2026-08-25 00:00:00,Desktop,New,Surat,Email,Summer Sale
+S00129,C00426,2026-05-20 00:00:00,Desktop,Returning,Bengaluru,Paid Search,Unknown
+S00130,C00614,2026-04-08 00:00:00,Mobile,Returning,Nashik,Organic,Retargeting
+S00131,C00349,2026-08-01 00:00:00,Tablet,New,Nashik,Organic,New User Offer
+S00132,C00153,2026-09-08 00:00:00,Mobile,New,Delhi,Social Media,Summer Sale
+S00133,C00330,2026-08-22 00:00:00,Desktop,Returning,Bengaluru,Social Media,Unknown
+S00134,C00045,2026-07-30 00:00:00,Mobile,New,Surat,Direct,Festival Sale
+S00135,C00508,2026-03-19 00:00:00,Tablet,New,Kolkata,Paid Search,Unknown
+S00136,C00103,2026-08-14 00:00:00,Mobile,New,Jaipur,Organic,Retargeting
+S00137,C00077,2026-03-21 00:00:00,Mobile,Returning,Delhi,Social Media,Festival Sale
+S00138,C00337,2026-02-11 00:00:00,Desktop,Returning,Gurugram,Referral,Summer Sale
+S00139,C00555,2026-09-07 00:00:00,Mobile,New,Ahmedabad,Email,Unknown
+S00140,C00093,2026-04-27 00:00:00,Mobile,New,Ahmedabad,Email,Unknown
+S00141,C00307,2026-03-27 00:00:00,Desktop,New,Indore,Organic,Festival Sale
+S00142,C00150,2026-08-09 00:00:00,Mobile,New,Ahmedabad,Direct,Unknown
+S00143,C00625,2026-02-10 00:00:00,Desktop,Returning,Bengaluru,Social Media,Summer Sale
+S00144,C00473,2026-04-29 00:00:00,Desktop,New,Ahmedabad,Organic,Retargeting
+S00145,C00694,2026-05-28 00:00:00,Mobile,New,Delhi,Referral,Unknown
+S00146,C00257,2026-08-06 00:00:00,Mobile,New,Gurugram,Direct,Unknown
+S00147,C00586,2026-07-15 00:00:00,Mobile,New,Jaipur,Paid Search,Flash Sale
+S00148,C00282,2026-07-22 00:00:00,Mobile,Returning,Indore,Direct,Unknown
+S00149,C00294,2026-09-12 00:00:00,Desktop,New,Indore,Paid Search,Summer Sale
+S00150,C00695,2026-05-09 00:00:00,Desktop,Returning,Ahmedabad,Direct,Summer Sale
+S00151,C00317,2026-01-21 00:00:00,Desktop,New,Delhi,Email,Unknown
+S00152,C00335,2026-06-01 00:00:00,Desktop,New,Nagpur,Direct,Retargeting
+S00153,C00544,2026-07-07 00:00:00,Mobile,New,Nagpur,Organic,Retargeting
+S00154,C00303,2026-09-04 00:00:00,Desktop,New,Pune,Social Media,Unknown
+S00155,C00693,2026-04-26 00:00:00,Desktop,Returning,Nashik,Direct,Festival Sale
+S00156,C00015,2026-07-22 00:00:00,Mobile,New,Delhi,Email,New User Offer
+S00157,C00654,2026-07-15 00:00:00,Tablet,New,Bengaluru,Social Media,Summer Sale
+S00158,C00625,2026-06-17 00:00:00,Mobile,New,Nashik,Social Media,New User Offer
+S00159,C00120,2026-07-29 00:00:00,Mobile,Returning,Hyderabad,Referral,Unknown
+S00160,C00551,2026-05-01 00:00:00,Mobile,New,Ahmedabad,Referral,New User Offer
+S00161,C00602,2026-08-03 00:00:00,Desktop,New,Gurugram,Email,Retargeting
+S00162,C00287,2026-07-28 00:00:00,Mobile,New,Noida,Paid Search,Unknown
+S00163,C00102,2026-07-05 00:00:00,Tablet,New,Surat,Referral,Festival Sale
+S00164,C00283,2026-07-23 00:00:00,Mobile,New,Nashik,Direct,Unknown
+S00165,C00658,2026-04-19 00:00:00,Desktop,Returning,Mumbai,Direct,Unknown
+S00166,C00579,2026-03-06 00:00:00,Mobile,Returning,Chennai,Organic,Unknown
+S00167,C00337,2026-04-30 00:00:00,Desktop,Returning,Kolkata,Organic,Retargeting
+S00168,C00134,2026-03-16 00:00:00,Mobile,Returning,Pune,Email,Unknown
+S00169,C00367,2026-01-08 00:00:00,Desktop,New,Delhi,Organic,Unknown
+S00170,C00432,2026-03-06 00:00:00,Mobile,Returning,Noida,Paid Search,Festival Sale
+S00171,C00463,2026-02-25 00:00:00,Mobile,Returning,Mumbai,Email,Flash Sale
+S00172,C00309,2026-09-24 00:00:00,Mobile,Returning,Mumbai,Referral,Retargeting
+S00173,C00111,2026-08-07 00:00:00,Mobile,Returning,Pune,Direct,Unknown
+S00174,C00068,2026-03-17 00:00:00,Mobile,Returning,Kolkata,Social Media,Unknown
+S00175,C00302,2026-09-29 00:00:00,Mobile,Returning,Pune,Direct,Unknown
+S00176,C00441,2026-04-21 00:00:00,Mobile,New,Delhi,Direct,Festival Sale
+S00177,C00321,2026-02-18 00:00:00,Mobile,Returning,Delhi,Referral,New User Offer
+S00178,C00069,2026-08-31 00:00:00,Mobile,New,Gurugram,Organic,New User Offer
+S00179,C00570,2026-03-08 00:00:00,Mobile,Returning,Chennai,Paid Search,Unknown
+S00180,C00682,2026-07-01 00:00:00,Tablet,New,Surat,Email,Flash Sale
+S00181,C00361,2026-06-09 00:00:00,Mobile,New,Nagpur,Email,Unknown
+S00182,C00359,2026-02-25 00:00:00,Desktop,New,Indore,Organic,Unknown
+S00183,C00575,2026-08-08 00:00:00,Tablet,Returning,Kolkata,Email,Summer Sale
+S00184,C00030,2026-05-17 00:00:00,Mobile,Returning,Hyderabad,Referral,Festival Sale
+S00185,C00147,2026-04-03 00:00:00,Mobile,New,Nagpur,Direct,Flash Sale
+S00186,C00544,2026-02-16 00:00:00,Mobile,New,Delhi,Organic,Unknown
+S00187,C00582,2026-06-16 00:00:00,Mobile,Returning,Nagpur,Organic,Summer Sale
+S00188,C00279,2026-02-11 00:00:00,Mobile,New,Kolkata,Paid Search,Unknown
+S00189,C00117,2026-09-20 00:00:00,Mobile,New,Ahmedabad,Email,Festival Sale
+S00190,C00047,2026-06-07 00:00:00,Mobile,Returning,Mumbai,Organic,Unknown
+S00191,C00141,2026-04-19 00:00:00,Desktop,New,Pune,Organic,New User Offer
+S00192,C00133,2026-03-31 00:00:00,Mobile,Returning,Chennai,Social Media,New User Offer
+S00193,C00074,2026-07-01 00:00:00,Mobile,Returning,Gurugram,Organic,Flash Sale
+S00194,C00590,2026-06-10 00:00:00,Mobile,New,Ahmedabad,Paid Search,Unknown
+S00195,C00333,2026-01-11 00:00:00,Mobile,Returning,Noida,Direct,Flash Sale
+S00196,C00448,2026-02-15 00:00:00,Desktop,New,Kolkata,Paid Search,Unknown
+S00197,C00348,2026-06-08 00:00:00,Mobile,Returning,Pune,Social Media,Unknown
+S00198,C00199,2026-09-19 00:00:00,Desktop,New,Jaipur,Referral,Summer Sale
+S00199,C00242,2026-03-17 00:00:00,Mobile,New,Nagpur,Social Media,New User Offer
+S00200,C00182,2026-02-08 00:00:00,Tablet,Returning,Noida,Direct,New User Offer
+S00201,C00698,2026-08-18 00:00:00,Tablet,New,Ahmedabad,Referral,Unknown
+S00202,C00155,2026-06-11 00:00:00,Mobile,New,Ahmedabad,Paid Search,Unknown
+S00203,C00361,2026-01-29 00:00:00,Mobile,New,Noida,Organic,Festival Sale
+S00204,C00079,2026-05-27 00:00:00,Desktop,Returning,Pune,Social Media,Summer Sale
+S00205,C00595,2026-08-25 00:00:00,Mobile,Returning,Surat,Organic,Flash Sale
+S00206,C00330,2026-04-07 00:00:00,Desktop,New,Mumbai,Paid Search,Retargeting
+S00207,C00087,2026-06-25 00:00:00,Mobile,New,Bengaluru,Email,Flash Sale
+S00208,C00536,2026-09-26 00:00:00,Desktop,New,Surat,Paid Search,Festival Sale
+S00209,C00696,2026-06-23 00:00:00,Mobile,Returning,Ahmedabad,Paid Search,Unknown
+S00210,C00291,2026-07-17 00:00:00,Mobile,Returning,Surat,Social Media,Unknown
+S00211,C00597,2026-02-11 00:00:00,Desktop,Returning,Hyderabad,Referral,New User Offer
+S00212,C00133,2026-07-20 00:00:00,Mobile,Returning,Hyderabad,Social Media,Summer Sale
+S00213,C00131,2026-06-18 00:00:00,Desktop,Returning,Jaipur,Referral,Flash Sale
+S00214,C00662,2026-02-17 00:00:00,Desktop,New,Mumbai,Paid Search,Unknown
+S00215,C00350,2026-04-20 00:00:00,Tablet,New,Bengaluru,Referral,Unknown
+S00216,C00104,2026-06-01 00:00:00,Mobile,New,Jaipur,Direct,Unknown
+S00217,C00633,2026-06-22 00:00:00,Mobile,New,Nagpur,Organic,New User Offer
+S00218,C00449,2026-03-26 00:00:00,Mobile,New,Jaipur,Organic,Festival Sale
+S00219,C00460,2026-05-26 00:00:00,Mobile,New,Indore,Direct,Flash Sale
+S00220,C00377,2026-04-10 00:00:00,Desktop,New,Noida,Social Media,Unknown
+S00221,C00515,2026-07-15 00:00:00,Mobile,Returning,Nashik,Organic,Summer Sale
+S00222,C00054,2026-05-09 00:00:00,Desktop,Returning,Chennai,Referral,New User Offer
+S00223,C00128,2026-09-22 00:00:00,Mobile,Returning,Hyderabad,Paid Search,Summer Sale
+S00224,C00094,2026-08-12 00:00:00,Tablet,New,Noida,Direct,Flash Sale
+S00225,C00055,2026-08-01 00:00:00,Mobile,New,Gurugram,Referral,Festival Sale
+S00226,C00327,2026-01-15 00:00:00,Tablet,Returning,Ahmedabad,Paid Search,Unknown
+S00227,C00294,2026-01-20 00:00:00,Desktop,New,Nashik,Organic,New User Offer
+S00228,C00631,2026-08-18 00:00:00,Mobile,New,Hyderabad,Organic,Unknown
+S00229,C00434,2026-09-28 00:00:00,Mobile,New,Hyderabad,Organic,Unknown
+S00230,C00065,2026-08-23 00:00:00,Mobile,Returning,Kolkata,Social Media,Summer Sale
+S00231,C00148,2026-05-04 00:00:00,Mobile,New,Delhi,Organic,Festival Sale
+S00232,C00537,2026-02-13 00:00:00,Tablet,New,Chennai,Social Media,Retargeting
+S00233,C00568,2026-09-17 00:00:00,Mobile,Returning,Mumbai,Social Media,Flash Sale
+S00234,C00017,2026-05-10 00:00:00,Mobile,New,Bengaluru,Email,Summer Sale
+S00235,C00137,2026-06-20 00:00:00,Mobile,New,Nashik,Email,Retargeting
+S00236,C00491,2026-08-26 00:00:00,Desktop,Returning,Pune,Email,Flash Sale
+S00237,C00301,2026-01-19 00:00:00,Mobile,Returning,Surat,Organic,Flash Sale
+S00238,C00408,2026-09-21 00:00:00,Tablet,New,Hyderabad,Organic,Summer Sale
+S00239,C00366,2026-05-27 00:00:00,Desktop,New,Ahmedabad,Paid Search,Unknown
+S00240,C00448,2026-07-08 00:00:00,Desktop,Returning,Surat,Referral,Unknown
+S00241,C00509,2026-04-06 00:00:00,Desktop,New,Indore,Social Media,Retargeting
+S00242,C00081,2026-08-06 00:00:00,Mobile,Returning,Nagpur,Social Media,Unknown
+S00243,C00336,2026-02-10 00:00:00,Desktop,New,Kolkata,Email,Unknown
+S00244,C00360,2026-08-16 00:00:00,Mobile,Returning,Surat,Paid Search,Flash Sale
+S00245,C00655,2026-05-21 00:00:00,Tablet,Returning,Pune,Email,Festival Sale
+S00246,C00696,2026-09-20 00:00:00,Mobile,New,Nashik,Social Media,Retargeting
+S00247,C00130,2026-01-18 00:00:00,Mobile,Returning,Delhi,Paid Search,Flash Sale
+S00248,C00620,2026-01-17 00:00:00,Mobile,New,Delhi,Paid Search,New User Offer
+S00249,C00543,2026-03-12 00:00:00,Mobile,New,Hyderabad,Organic,Unknown
+S00250,C00512,2026-04-06 00:00:00,Mobile,Returning,Pune,Organic,Unknown
+S00251,C00220,2026-08-17 00:00:00,Tablet,New,Surat,Referral,Unknown
+S00252,C00076,2026-03-11 00:00:00,Mobile,Returning,Noida,Referral,Retargeting
+S00253,C00684,2026-06-13 00:00:00,Mobile,New,Chennai,Paid Search,Unknown
+S00254,C00654,2026-03-22 00:00:00,Mobile,New,Bengaluru,Organic,Unknown
+S00255,C00243,2026-03-13 00:00:00,Desktop,New,Chennai,Social Media,Festival Sale
+S00256,C00627,2026-03-08 00:00:00,Desktop,New,Gurugram,Referral,New User Offer
+S00257,C00421,2026-09-27 00:00:00,Desktop,Returning,Pune,Organic,Unknown
+S00258,C00461,2026-02-07 00:00:00,Mobile,New,Nagpur,Direct,Retargeting
+S00259,C00133,2026-04-04 00:00:00,Mobile,Returning,Mumbai,Direct,Summer Sale
+S00260,C00169,2026-06-05 00:00:00,Mobile,Returning,Bengaluru,Paid Search,Flash Sale
+S00261,C00081,2026-05-26 00:00:00,Mobile,Returning,Chennai,Organic,Summer Sale
+S00262,C00096,2026-10-01 00:00:00,Mobile,New,Kolkata,Organic,New User Offer
+S00263,C00578,2026-06-22 00:00:00,Mobile,Returning,Pune,Organic,Summer Sale
+S00264,C00667,2026-05-16 00:00:00,Mobile,New,Kolkata,Social Media,Festival Sale
+S00265,C00658,2026-05-29 00:00:00,Tablet,New,Indore,Direct,Festival Sale
+S00266,C00075,2026-08-21 00:00:00,Desktop,New,Gurugram,Social Media,Unknown
+S00267,C00321,2026-03-15 00:00:00,Desktop,New,Nashik,Paid Search,Festival Sale
+S00268,C00528,2026-07-09 00:00:00,Mobile,New,Noida,Organic,Festival Sale
+S00269,C00100,2026-03-14 00:00:00,Mobile,Returning,Nashik,Social Media,Unknown
+S00270,C00336,2026-03-23 00:00:00,Tablet,Returning,Bengaluru,Direct,Festival Sale
+S00271,C00479,2026-09-21 00:00:00,Mobile,New,Mumbai,Organic,Festival Sale
+S00272,C00247,2026-08-23 00:00:00,Mobile,New,Mumbai,Paid Search,Summer Sale
+S00273,C00293,2026-08-29 00:00:00,Mobile,Returning,Gurugram,Organic,Unknown
+S00274,C00413,2026-07-07 00:00:00,Mobile,New,Kolkata,Social Media,Festival Sale
+S00275,C00076,2026-05-28 00:00:00,Mobile,New,Chennai,Organic,Flash Sale
+S00276,C00132,2026-03-02 00:00:00,Tablet,New,Indore,Referral,Summer Sale
+S00277,C00148,2026-07-07 00:00:00,Mobile,New,Chennai,Organic,Unknown
+S00278,C00486,2026-06-20 00:00:00,Mobile,New,Surat,Social Media,Unknown
+S00279,C00167,2026-06-13 00:00:00,Mobile,Returning,Nashik,Paid Search,Unknown
+S00280,C00546,2026-09-18 00:00:00,Mobile,New,Noida,Direct,Festival Sale
+S00281,C00427,2026-02-26 00:00:00,Mobile,Returning,Jaipur,Direct,Summer Sale
+S00282,C00272,2026-08-31 00:00:00,Tablet,Returning,Indore,Social Media,Unknown
+S00283,C00598,2026-01-27 00:00:00,Mobile,New,Jaipur,Social Media,Retargeting
+S00284,C00698,2026-03-17 00:00:00,Mobile,New,Jaipur,Organic,Unknown
+S00285,C00429,2026-06-10 00:00:00,Mobile,Returning,Gurugram,Social Media,Summer Sale
+S00286,C00064,2026-08-30 00:00:00,Desktop,New,Chennai,Paid Search,New User Offer
+S00287,C00386,2026-09-27 00:00:00,Mobile,New,Surat,Social Media,Summer Sale
+S00288,C00625,2026-05-16 00:00:00,Mobile,Returning,Hyderabad,Social Media,Unknown
+S00289,C00296,2026-06-02 00:00:00,Desktop,Returning,Noida,Paid Search,Unknown
+S00290,C00295,2026-05-21 00:00:00,Mobile,Returning,Gurugram,Direct,Festival Sale
+S00291,C00150,2026-06-26 00:00:00,Mobile,New,Jaipur,Organic,Flash Sale
+S00292,C00491,2026-05-12 00:00:00,Mobile,Returning,Hyderabad,Referral,New User Offer
+S00293,C00112,2026-03-12 00:00:00,Desktop,Returning,Bengaluru,Organic,Flash Sale
+S00294,C00654,2026-04-26 00:00:00,Mobile,New,Delhi,Email,Unknown
+S00295,C00006,2026-03-12 00:00:00,Tablet,Returning,Nagpur,Paid Search,Flash Sale
+S00296,C00489,2026-09-01 00:00:00,Desktop,Returning,Hyderabad,Paid Search,Summer Sale
+S00297,C00668,2026-02-15 00:00:00,Mobile,New,Jaipur,Direct,Unknown
+S00298,C00428,2026-03-31 00:00:00,Desktop,New,Surat,Organic,Retargeting
+S00299,C00191,2026-09-11 00:00:00,Tablet,Returning,Surat,Paid Search,Unknown
+S00300,C00582,2026-06-02 00:00:00,Desktop,Returning,Delhi,Paid Search,Flash Sale
+S00301,C00506,2026-09-26 00:00:00,Desktop,New,Chennai,Social Media,Unknown
+S00302,C00339,2026-02-27 00:00:00,Mobile,New,Hyderabad,Email,Unknown
+S00303,C00303,2026-06-22 00:00:00,Mobile,Returning,Nagpur,Social Media,Summer Sale
+S00304,C00438,2026-07-27 00:00:00,Mobile,New,Ahmedabad,Organic,Flash Sale
+S00305,C00332,2026-09-02 00:00:00,Tablet,New,Gurugram,Organic,New User Offer
+S00306,C00310,2026-06-18 00:00:00,Mobile,New,Hyderabad,Email,New User Offer
+S00307,C00684,2026-02-01 00:00:00,Mobile,New,Gurugram,Email,Flash Sale
+S00308,C00121,2026-06-09 00:00:00,Desktop,Returning,Delhi,Social Media,Unknown
+S00309,C00490,2026-03-10 00:00:00,Mobile,Returning,Kolkata,Paid Search,New User Offer
+S00310,C00551,2026-08-30 00:00:00,Desktop,Returning,Indore,Organic,New User Offer
+S00311,C00539,2026-02-11 00:00:00,Mobile,Returning,Pune,Direct,Unknown
+S00312,C00208,2026-09-16 00:00:00,Mobile,New,Delhi,Direct,Festival Sale
+S00313,C00598,2026-04-16 00:00:00,Mobile,Returning,Noida,Direct,Festival Sale
+S00314,C00426,2026-09-20 00:00:00,Mobile,New,Noida,Email,Unknown
+S00315,C00406,2026-01-12 00:00:00,Mobile,New,Bengaluru,Social Media,Unknown
+S00316,C00066,2026-06-26 00:00:00,Mobile,New,Surat,Organic,Flash Sale
+S00317,C00294,2026-01-17 00:00:00,Mobile,Returning,Indore,Email,New User Offer
+S00318,C00384,2026-08-04 00:00:00,Tablet,New,Nashik,Direct,Festival Sale
+S00319,C00700,2026-02-11 00:00:00,Tablet,Returning,Nagpur,Email,Unknown
+S00320,C00551,2026-04-02 00:00:00,Mobile,New,Bengaluru,Direct,New User Offer
+S00321,C00475,2026-06-02 00:00:00,Desktop,New,Chennai,Paid Search,Unknown
+S00322,C00355,2026-08-24 00:00:00,Mobile,New,Surat,Email,Unknown
+S00323,C00630,2026-08-03 00:00:00,Desktop,Returning,Mumbai,Organic,Unknown
+S00324,C00458,2026-01-18 00:00:00,Mobile,Returning,Mumbai,Organic,Unknown
+S00325,C00240,2026-08-13 00:00:00,Mobile,Returning,Indore,Organic,Summer Sale
+S00326,C00240,2026-05-29 00:00:00,Desktop,Returning,Delhi,Social Media,Retargeting
+S00327,C00243,2026-06-14 00:00:00,Mobile,New,Ahmedabad,Social Media,Festival Sale
+S00328,C00063,2026-05-21 00:00:00,Mobile,Returning,Jaipur,Direct,Summer Sale
+S00329,C00570,2026-08-07 00:00:00,Mobile,Returning,Ahmedabad,Email,Retargeting
+S00330,C00427,2026-06-13 00:00:00,Mobile,New,Nagpur,Direct,Festival Sale
+S00331,C00308,2026-04-26 00:00:00,Desktop,New,Noida,Direct,Summer Sale
+S00332,C00571,2026-08-02 00:00:00,Mobile,New,Hyderabad,Organic,Summer Sale
+S00333,C00380,2026-08-19 00:00:00,Mobile,Returning,Bengaluru,Organic,Festival Sale
+S00334,C00075,2026-01-21 00:00:00,Mobile,Returning,Jaipur,Email,Unknown
+S00335,C00341,2026-04-17 00:00:00,Mobile,Returning,Bengaluru,Referral,Flash Sale
+S00336,C00491,2026-03-02 00:00:00,Desktop,Returning,Jaipur,Organic,Flash Sale
+S00337,C00290,2026-06-14 00:00:00,Mobile,New,Delhi,Paid Search,Festival Sale
+S00338,C00478,2026-09-12 00:00:00,Mobile,Returning,Noida,Direct,Unknown
+S00339,C00380,2026-04-15 00:00:00,Mobile,New,Nashik,Organic,Unknown
+S00340,C00567,2026-05-14 00:00:00,Tablet,New,Gurugram,Paid Search,Unknown
+S00341,C00389,2026-04-28 00:00:00,Mobile,New,Chennai,Email,New User Offer
+S00342,C00501,2026-05-12 00:00:00,Tablet,Returning,Noida,Social Media,New User Offer
+S00343,C00174,2026-06-30 00:00:00,Mobile,New,Nagpur,Direct,Summer Sale
+S00344,C00537,2026-01-31 00:00:00,Mobile,Returning,Nashik,Email,New User Offer
+S00345,C00141,2026-07-31 00:00:00,Desktop,New,Jaipur,Organic,Unknown
+S00346,C00383,2026-08-22 00:00:00,Mobile,Returning,Surat,Social Media,Festival Sale
+S00347,C00017,2026-09-07 00:00:00,Mobile,New,Mumbai,Organic,New User Offer
+S00348,C00018,2026-05-27 00:00:00,Mobile,Returning,Gurugram,Direct,Flash Sale
+S00349,C00099,2026-02-24 00:00:00,Mobile,New,Kolkata,Social Media,Retargeting
+S00350,C00407,2026-05-17 00:00:00,Mobile,Returning,Noida,Social Media,Flash Sale
+S00351,C00308,2026-04-26 00:00:00,Desktop,Returning,Ahmedabad,Referral,Summer Sale
+S00352,C00096,2026-01-17 00:00:00,Mobile,New,Noida,Organic,Unknown
+S00353,C00085,2026-03-29 00:00:00,Mobile,New,Indore,Paid Search,Flash Sale
+S00354,C00541,2026-02-18 00:00:00,Desktop,New,Surat,Direct,Retargeting
+S00355,C00278,2026-09-01 00:00:00,Mobile,New,Surat,Paid Search,Summer Sale
+S00356,C00184,2026-01-17 00:00:00,Tablet,New,Bengaluru,Social Media,New User Offer
+S00357,C00079,2026-07-23 00:00:00,Mobile,New,Kolkata,Direct,Festival Sale
+S00358,C00394,2026-06-19 00:00:00,Desktop,New,Jaipur,Email,Summer Sale
+S00359,C00055,2026-06-27 00:00:00,Mobile,New,Pune,Paid Search,New User Offer
+S00360,C00335,2026-07-23 00:00:00,Mobile,New,Noida,Social Media,Festival Sale
+S00361,C00443,2026-07-12 00:00:00,Mobile,Returning,Gurugram,Organic,Summer Sale
+S00362,C00076,2026-05-07 00:00:00,Mobile,New,Jaipur,Direct,Unknown
+S00363,C00325,2026-07-19 00:00:00,Mobile,New,Hyderabad,Paid Search,New User Offer
+S00364,C00136,2026-02-22 00:00:00,Mobile,New,Chennai,Social Media,Festival Sale
+S00365,C00092,2026-01-14 00:00:00,Mobile,New,Kolkata,Direct,Retargeting
+S00366,C00299,2026-01-07 00:00:00,Mobile,Returning,Jaipur,Direct,Flash Sale
+S00367,C00586,2026-05-05 00:00:00,Mobile,Returning,Nagpur,Organic,Unknown
+S00368,C00150,2026-09-10 00:00:00,Mobile,New,Gurugram,Paid Search,Retargeting
+S00369,C00258,2026-07-04 00:00:00,Tablet,Returning,Noida,Social Media,Unknown
+S00370,C00139,2026-02-24 00:00:00,Mobile,Returning,Delhi,Direct,Festival Sale
+S00371,C00451,2026-06-18 00:00:00,Mobile,Returning,Nashik,Email,Summer Sale
+S00372,C00329,2026-06-03 00:00:00,Desktop,Returning,Noida,Paid Search,Flash Sale
+S00373,C00299,2026-06-13 00:00:00,Desktop,Returning,Kolkata,Direct,Unknown
+S00374,C00403,2026-05-24 00:00:00,Mobile,Returning,Bengaluru,Social Media,Summer Sale
+S00375,C00473,2026-01-14 00:00:00,Tablet,New,Indore,Paid Search,New User Offer
+S00376,C00690,2026-07-29 00:00:00,Mobile,Returning,Bengaluru,Organic,Unknown
+S00377,C00387,2026-08-05 00:00:00,Mobile,Returning,Noida,Social Media,Summer Sale
+S00378,C00557,2026-08-03 00:00:00,Mobile,Returning,Jaipur,Direct,Summer Sale
+S00379,C00112,2026-02-13 00:00:00,Desktop,Returning,Delhi,Organic,Summer Sale
+S00380,C00340,2026-07-24 00:00:00,Tablet,New,Mumbai,Organic,Unknown
+S00381,C00572,2026-09-23 00:00:00,Mobile,New,Noida,Paid Search,Festival Sale
+S00382,C00155,2026-09-14 00:00:00,Mobile,New,Pune,Paid Search,Flash Sale
+S00383,C00119,2026-02-13 00:00:00,Desktop,Returning,Delhi,Paid Search,Festival Sale
+S00384,C00534,2026-04-16 00:00:00,Mobile,New,Noida,Email,Festival Sale
+S00385,C00308,2026-02-04 00:00:00,Mobile,Returning,Mumbai,Direct,Summer Sale
+S00386,C00250,2026-03-26 00:00:00,Mobile,New,Delhi,Social Media,Flash Sale
+S00387,C00415,2026-04-29 00:00:00,Desktop,New,Ahmedabad,Paid Search,Unknown
+S00388,C00461,2026-04-12 00:00:00,Mobile,New,Jaipur,Organic,Unknown
+S00389,C00592,2026-02-02 00:00:00,Mobile,Returning,Nagpur,Paid Search,Unknown
+S00390,C00269,2026-02-28 00:00:00,Desktop,New,Ahmedabad,Paid Search,Festival Sale
+S00391,C00602,2026-07-20 00:00:00,Mobile,New,Noida,Social Media,Retargeting
+S00392,C00630,2026-06-02 00:00:00,Mobile,Returning,Delhi,Organic,Unknown
+S00393,C00383,2026-04-04 00:00:00,Desktop,New,Gurugram,Social Media,Summer Sale
+S00394,C00191,2026-08-05 00:00:00,Mobile,New,Surat,Email,Flash Sale
+S00395,C00502,2026-03-27 00:00:00,Mobile,New,Nashik,Paid Search,Unknown
+S00396,C00010,2026-07-03 00:00:00,Mobile,New,Gurugram,Referral,Summer Sale
+S00397,C00419,2026-09-11 00:00:00,Desktop,New,Nashik,Paid Search,Unknown
+S00398,C00226,2026-01-16 00:00:00,Mobile,New,Chennai,Paid Search,Retargeting
+S00399,C00563,2026-09-11 00:00:00,Mobile,New,Hyderabad,Direct,Retargeting
+S00400,C00556,2026-07-07 00:00:00,Desktop,New,Jaipur,Paid Search,Unknown
+S00401,C00105,2026-08-06 00:00:00,Desktop,Returning,Bengaluru,Paid Search,Flash Sale
+S00402,C00270,2026-08-19 00:00:00,Mobile,Returning,Noida,Direct,Unknown
+S00403,C00215,2026-05-02 00:00:00,Desktop,Returning,Delhi,Direct,Summer Sale
+S00404,C00170,2026-08-08 00:00:00,Desktop,Returning,Nashik,Organic,Unknown
+S00405,C00546,2026-06-29 00:00:00,Mobile,New,Delhi,Referral,Unknown
+S00406,C00527,2026-05-17 00:00:00,Tablet,Returning,Pune,Organic,New User Offer
+S00407,C00061,2026-07-30 00:00:00,Tablet,Returning,Nagpur,Email,Unknown
+S00408,C00330,2026-03-16 00:00:00,Desktop,Returning,Ahmedabad,Paid Search,Unknown
+S00409,C00643,2026-05-18 00:00:00,Mobile,New,Ahmedabad,Direct,New User Offer
+S00410,C00528,2026-07-26 00:00:00,Desktop,Returning,Surat,Paid Search,Flash Sale
+S00411,C00596,2026-06-17 00:00:00,Mobile,Returning,Jaipur,Organic,Flash Sale
+S00412,C00065,2026-07-03 00:00:00,Desktop,New,Gurugram,Direct,Festival Sale
+S00413,C00291,2026-06-15 00:00:00,Mobile,New,Kolkata,Direct,Retargeting
+S00414,C00048,2026-01-25 00:00:00,Mobile,Returning,Noida,Organic,Flash Sale
+S00415,C00452,2026-03-22 00:00:00,Mobile,Returning,Gurugram,Organic,New User Offer
+S00416,C00666,2026-03-09 00:00:00,Mobile,Returning,Surat,Organic,New User Offer
+S00417,C00085,2026-05-09 00:00:00,Mobile,Returning,Nagpur,Organic,Summer Sale
+S00418,C00440,2026-04-30 00:00:00,Desktop,Returning,Mumbai,Organic,Unknown
+S00419,C00532,2026-04-26 00:00:00,Desktop,New,Jaipur,Paid Search,Unknown
+S00420,C00136,2026-08-05 00:00:00,Mobile,New,Pune,Email,Unknown
+S00421,C00377,2026-06-10 00:00:00,Desktop,New,Indore,Direct,Retargeting
+S00422,C00071,2026-03-15 00:00:00,Mobile,New,Ahmedabad,Organic,Festival Sale
+S00423,C00644,2026-04-20 00:00:00,Desktop,Returning,Kolkata,Email,Retargeting
+S00424,C00103,2026-02-14 00:00:00,Mobile,New,Jaipur,Paid Search,Flash Sale
+S00425,C00144,2026-06-11 00:00:00,Mobile,Returning,Bengaluru,Social Media,Summer Sale
+S00426,C00028,2026-05-26 00:00:00,Desktop,Returning,Hyderabad,Organic,Summer Sale
+S00427,C00402,2026-04-07 00:00:00,Mobile,New,Surat,Direct,Unknown
+S00428,C00116,2026-07-17 00:00:00,Mobile,Returning,Pune,Social Media,Flash Sale
+S00429,C00325,2026-07-04 00:00:00,Mobile,Returning,Kolkata,Paid Search,Summer Sale
+S00430,C00483,2026-03-30 00:00:00,Tablet,Returning,Mumbai,Social Media,Unknown
+S00431,C00041,2026-04-21 00:00:00,Tablet,Returning,Gurugram,Social Media,Summer Sale
+S00432,C00426,2026-09-14 00:00:00,Mobile,New,Ahmedabad,Social Media,Summer Sale
+S00433,C00086,2026-05-23 00:00:00,Mobile,New,Bengaluru,Referral,Unknown
+S00434,C00401,2026-06-17 00:00:00,Mobile,Returning,Ahmedabad,Email,Unknown
+S00435,C00245,2026-08-12 00:00:00,Mobile,New,Gurugram,Organic,Summer Sale
+S00436,C00317,2026-01-29 00:00:00,Desktop,Returning,Nagpur,Organic,New User Offer
+S00437,C00168,2026-01-06 00:00:00,Mobile,New,Chennai,Direct,New User Offer
+S00438,C00381,2026-03-27 00:00:00,Mobile,Returning,Hyderabad,Email,Unknown
+S00439,C00344,2026-01-16 00:00:00,Desktop,New,Pune,Organic,Flash Sale
+S00440,C00509,2026-02-09 00:00:00,Mobile,New,Noida,Direct,Unknown
+S00441,C00262,2026-03-22 00:00:00,Desktop,Returning,Ahmedabad,Email,Unknown
+S00442,C00003,2026-09-18 00:00:00,Mobile,Returning,Bengaluru,Organic,Festival Sale
+S00443,C00184,2026-03-18 00:00:00,Tablet,Returning,Chennai,Direct,New User Offer
+S00444,C00230,2026-08-03 00:00:00,Mobile,New,Jaipur,Paid Search,Retargeting
+S00445,C00123,2026-07-10 00:00:00,Mobile,Returning,Nagpur,Organic,Summer Sale
+S00446,C00411,2026-01-24 00:00:00,Mobile,New,Hyderabad,Direct,Unknown
+S00447,C00567,2026-02-14 00:00:00,Mobile,New,Hyderabad,Social Media,Unknown
+S00448,C00476,2026-05-05 00:00:00,Mobile,Returning,Indore,Direct,New User Offer
+S00449,C00155,2026-05-06 00:00:00,Mobile,New,Bengaluru,Social Media,Summer Sale
+S00450,C00344,2026-01-05 00:00:00,Mobile,Returning,Nashik,Email,Unknown
+S00451,C00543,2026-04-16 00:00:00,Tablet,New,Mumbai,Referral,Unknown
+S00452,C00096,2026-05-24 00:00:00,Mobile,New,Nashik,Social Media,New User Offer
+S00453,C00470,2026-07-10 00:00:00,Tablet,New,Pune,Social Media,Summer Sale
+S00454,C00077,2026-07-21 00:00:00,Mobile,New,Ahmedabad,Referral,Unknown
+S00455,C00323,2026-05-14 00:00:00,Tablet,New,Nashik,Email,Unknown
+S00456,C00240,2026-05-20 00:00:00,Mobile,New,Indore,Direct,Unknown
+S00457,C00169,2026-02-24 00:00:00,Mobile,New,Pune,Social Media,Flash Sale
+S00458,C00463,2026-04-17 00:00:00,Mobile,New,Pune,Organic,Retargeting
+S00459,C00618,2026-06-05 00:00:00,Mobile,Returning,Delhi,Organic,New User Offer
+S00460,C00406,2026-07-02 00:00:00,Mobile,Returning,Hyderabad,Direct,Unknown
+S00461,C00464,2026-07-27 00:00:00,Mobile,New,Pune,Social Media,Retargeting
+S00462,C00125,2026-03-13 00:00:00,Mobile,Returning,Bengaluru,Organic,Retargeting
+S00463,C00646,2026-07-10 00:00:00,Tablet,New,Kolkata,Organic,Retargeting
+S00464,C00067,2026-01-12 00:00:00,Mobile,Returning,Indore,Organic,Flash Sale
+S00465,C00126,2026-06-19 00:00:00,Mobile,New,Nagpur,Referral,Festival Sale
+S00466,C00509,2026-07-22 00:00:00,Mobile,Returning,Nagpur,Paid Search,Flash Sale
+S00467,C00287,2026-05-21 00:00:00,Mobile,New,Kolkata,Social Media,Unknown
+S00468,C00511,2026-06-01 00:00:00,Mobile,New,Mumbai,Organic,Festival Sale
+S00469,C00205,2026-08-03 00:00:00,Desktop,Returning,Bengaluru,Social Media,Retargeting
+S00470,C00392,2026-01-10 00:00:00,Desktop,New,Chennai,Direct,Unknown
+S00471,C00330,2026-09-15 00:00:00,Mobile,New,Delhi,Social Media,Unknown
+S00472,C00060,2026-05-24 00:00:00,Desktop,New,Delhi,Direct,Flash Sale
+S00473,C00103,2026-03-23 00:00:00,Mobile,New,Chennai,Direct,Flash Sale
+S00474,C00225,2026-01-29 00:00:00,Mobile,Returning,Gurugram,Paid Search,Retargeting
+S00475,C00181,2026-03-30 00:00:00,Mobile,New,Jaipur,Email,Flash Sale
+S00476,C00361,2026-01-15 00:00:00,Tablet,New,Kolkata,Referral,Retargeting
+S00477,C00556,2026-09-10 00:00:00,Mobile,New,Pune,Organic,Summer Sale
+S00478,C00540,2026-01-11 00:00:00,Mobile,New,Kolkata,Organic,Unknown
+S00479,C00332,2026-04-01 00:00:00,Mobile,New,Jaipur,Direct,Retargeting
+S00480,C00374,2026-09-27 00:00:00,Tablet,New,Ahmedabad,Paid Search,Unknown
+S00481,C00331,2026-06-04 00:00:00,Mobile,New,Gurugram,Direct,Flash Sale
+S00482,C00179,2026-06-12 00:00:00,Desktop,New,Surat,Referral,Retargeting
+S00483,C00682,2026-04-25 00:00:00,Mobile,New,Hyderabad,Email,Unknown
+S00484,C00002,2026-04-01 00:00:00,Tablet,Returning,Gurugram,Direct,Retargeting
+S00485,C00187,2026-01-17 00:00:00,Desktop,Returning,Kolkata,Organic,Summer Sale
+S00486,C00145,2026-09-12 00:00:00,Mobile,New,Delhi,Referral,Unknown
+S00487,C00687,2026-02-15 00:00:00,Desktop,Returning,Noida,Organic,Unknown
+S00488,C00359,2026-02-04 00:00:00,Mobile,New,Mumbai,Organic,Festival Sale
+S00489,C00171,2026-08-03 00:00:00,Desktop,New,Gurugram,Paid Search,Festival Sale
+S00490,C00592,2026-09-03 00:00:00,Desktop,Returning,Nagpur,Paid Search,Retargeting
+S00491,C00302,2026-01-18 00:00:00,Mobile,New,Pune,Organic,Unknown
+S00492,C00165,2026-07-12 00:00:00,Desktop,New,Surat,Referral,Unknown
+S00493,C00032,2026-09-05 00:00:00,Mobile,Returning,Kolkata,Direct,Unknown
+S00494,C00340,2026-02-21 00:00:00,Mobile,New,Jaipur,Social Media,Flash Sale
+S00495,C00677,2026-05-16 00:00:00,Mobile,New,Mumbai,Paid Search,Summer Sale
+S00496,C00158,2026-09-09 00:00:00,Mobile,New,Pune,Paid Search,New User Offer
+S00497,C00205,2026-09-03 00:00:00,Mobile,New,Ahmedabad,Paid Search,Unknown
+S00498,C00316,2026-03-01 00:00:00,Desktop,New,Surat,Email,Unknown
+S00499,C00190,2026-07-18 00:00:00,Mobile,New,Nagpur,Paid Search,Unknown
+S00500,C00270,2026-08-27 00:00:00,Mobile,New,Mumbai,Organic,New User Offer
+S00501,C00088,2026-02-19 00:00:00,Desktop,Returning,Gurugram,Referral,Summer Sale
+S00502,C00397,2026-02-01 00:00:00,Desktop,New,Chennai,Email,Flash Sale
+S00503,C00488,2026-05-01 00:00:00,Mobile,New,Nashik,Email,Summer Sale
+S00504,C00586,2026-09-22 00:00:00,Desktop,Returning,Pune,Referral,Festival Sale
+S00505,C00217,2026-03-27 00:00:00,Desktop,New,Gurugram,Organic,New User Offer
+S00506,C00643,2026-04-14 00:00:00,Mobile,Returning,Delhi,Direct,Flash Sale
+S00507,C00090,2026-02-04 00:00:00,Mobile,New,Delhi,Direct,Summer Sale
+S00508,C00639,2026-01-07 00:00:00,Mobile,Returning,Pune,Paid Search,Unknown
+S00509,C00109,2026-02-21 00:00:00,Mobile,New,Hyderabad,Direct,Retargeting
+S00510,C00271,2026-07-30 00:00:00,Mobile,New,Kolkata,Social Media,Unknown
+S00511,C00148,2026-07-26 00:00:00,Desktop,Returning,Gurugram,Organic,Retargeting
+S00512,C00244,2026-06-19 00:00:00,Mobile,New,Hyderabad,Direct,Unknown
+S00513,C00319,2026-06-05 00:00:00,Mobile,New,Jaipur,Email,Flash Sale
+S00514,C00138,2026-04-27 00:00:00,Mobile,Returning,Indore,Direct,Unknown
+S00515,C00620,2026-08-02 00:00:00,Desktop,New,Bengaluru,Direct,Festival Sale
+S00516,C00529,2026-09-06 00:00:00,Desktop,Returning,Chennai,Direct,Unknown
+S00517,C00414,2026-09-17 00:00:00,Mobile,Returning,Surat,Social Media,Unknown
+S00518,C00060,2026-04-13 00:00:00,Mobile,New,Surat,Paid Search,Unknown
+S00519,C00476,2026-07-08 00:00:00,Mobile,Returning,Pune,Email,Unknown
+S00520,C00609,2026-09-08 00:00:00,Mobile,Returning,Noida,Social Media,Unknown
+S00521,C00265,2026-03-25 00:00:00,Desktop,Returning,Hyderabad,Organic,Unknown
+S00522,C00227,2026-04-20 00:00:00,Desktop,Returning,Hyderabad,Email,Summer Sale
+S00523,C00486,2026-01-05 00:00:00,Desktop,Returning,Kolkata,Direct,Unknown
+S00524,C00659,2026-06-06 00:00:00,Mobile,Returning,Nashik,Paid Search,Unknown
+S00525,C00310,2026-08-27 00:00:00,Desktop,Returning,Gurugram,Social Media,Unknown
+S00526,C00575,2026-07-11 00:00:00,Desktop,Returning,Hyderabad,Email,Festival Sale
+S00527,C00284,2026-06-22 00:00:00,Desktop,Returning,Hyderabad,Email,Flash Sale
+S00528,C00193,2026-06-02 00:00:00,Mobile,Returning,Surat,Organic,Retargeting
+S00529,C00677,2026-07-26 00:00:00,Mobile,New,Mumbai,Email,Flash Sale
+S00530,C00429,2026-05-13 00:00:00,Mobile,Returning,Kolkata,Email,Summer Sale
+S00531,C00352,2026-04-08 00:00:00,Desktop,New,Chennai,Social Media,Festival Sale
+S00532,C00520,2026-07-03 00:00:00,Mobile,New,Ahmedabad,Direct,Unknown
+S00533,C00483,2026-02-19 00:00:00,Mobile,New,Indore,Social Media,Flash Sale
+S00534,C00671,2026-06-21 00:00:00,Mobile,New,Jaipur,Direct,Festival Sale
+S00535,C00381,2026-06-19 00:00:00,Mobile,New,Nashik,Organic,Unknown
+S00536,C00484,2026-02-06 00:00:00,Desktop,New,Nashik,Email,Summer Sale
+S00537,C00056,2026-07-31 00:00:00,Desktop,New,Bengaluru,Paid Search,Flash Sale
+S00538,C00147,2026-08-23 00:00:00,Mobile,Returning,Indore,Organic,Unknown
+S00539,C00321,2026-04-01 00:00:00,Desktop,New,Hyderabad,Organic,Retargeting
+S00540,C00502,2026-03-23 00:00:00,Desktop,Returning,Nagpur,Social Media,Summer Sale
+S00541,C00440,2026-07-26 00:00:00,Tablet,New,Mumbai,Social Media,New User Offer
+S00542,C00330,2026-01-08 00:00:00,Desktop,New,Mumbai,Email,Summer Sale
+S00543,C00232,2026-05-08 00:00:00,Desktop,New,Nagpur,Organic,Summer Sale
+S00544,C00172,2026-06-06 00:00:00,Mobile,New,Hyderabad,Paid Search,Summer Sale
+S00545,C00346,2026-09-26 00:00:00,Mobile,Returning,Nagpur,Paid Search,Flash Sale
+S00546,C00193,2026-07-03 00:00:00,Mobile,Returning,Indore,Paid Search,Unknown
+S00547,C00217,2026-03-09 00:00:00,Desktop,Returning,Nagpur,Organic,New User Offer
+S00548,C00385,2026-01-20 00:00:00,Desktop,New,Chennai,Social Media,Summer Sale
+S00549,C00678,2026-01-25 00:00:00,Mobile,Returning,Mumbai,Email,Festival Sale
+S00550,C00127,2026-07-14 00:00:00,Mobile,New,Nagpur,Organic,New User Offer
+S00551,C00309,2026-01-05 00:00:00,Mobile,New,Chennai,Organic,Summer Sale
+S00552,C00429,2026-03-12 00:00:00,Desktop,New,Jaipur,Social Media,Unknown
+S00553,C00510,2026-02-24 00:00:00,Mobile,New,Hyderabad,Direct,Flash Sale
+S00554,C00420,2026-07-03 00:00:00,Mobile,New,Noida,Direct,New User Offer
+S00555,C00339,2026-09-04 00:00:00,Mobile,New,Pune,Direct,Retargeting
+S00556,C00153,2026-09-10 00:00:00,Tablet,Returning,Pune,Email,Unknown
+S00557,C00660,2026-05-12 00:00:00,Mobile,Returning,Hyderabad,Organic,Unknown
+S00558,C00041,2026-03-31 00:00:00,Desktop,New,Ahmedabad,Paid Search,New User Offer
+S00559,C00047,2026-02-18 00:00:00,Mobile,New,Ahmedabad,Organic,Festival Sale
+S00560,C00637,2026-08-13 00:00:00,Mobile,Returning,Delhi,Direct,Unknown
+S00561,C00410,2026-07-25 00:00:00,Tablet,New,Gurugram,Email,Festival Sale
+S00562,C00665,2026-08-04 00:00:00,Desktop,New,Nagpur,Email,Unknown
+S00563,C00107,2026-03-23 00:00:00,Mobile,Returning,Indore,Social Media,Festival Sale
+S00564,C00368,2026-07-14 00:00:00,Desktop,Returning,Surat,Direct,Flash Sale
+S00565,C00495,2026-03-08 00:00:00,Tablet,New,Gurugram,Paid Search,Unknown
+S00566,C00013,2026-06-10 00:00:00,Desktop,Returning,Indore,Direct,New User Offer
+S00567,C00686,2026-04-25 00:00:00,Desktop,New,Jaipur,Email,Unknown
+S00568,C00494,2026-05-08 00:00:00,Mobile,Returning,Gurugram,Organic,Retargeting
+S00569,C00012,2026-01-28 00:00:00,Desktop,New,Nashik,Social Media,Festival Sale
+S00570,C00077,2026-03-26 00:00:00,Desktop,New,Delhi,Referral,Unknown
+S00571,C00564,2026-04-25 00:00:00,Desktop,New,Bengaluru,Organic,Festival Sale
+S00572,C00091,2026-08-18 00:00:00,Desktop,New,Pune,Referral,New User Offer
+S00573,C00106,2026-01-10 00:00:00,Mobile,New,Chennai,Organic,Unknown
+S00574,C00521,2026-06-05 00:00:00,Mobile,Returning,Noida,Referral,Festival Sale
+S00575,C00229,2026-01-28 00:00:00,Desktop,New,Indore,Social Media,Festival Sale
+S00576,C00464,2026-07-06 00:00:00,Mobile,Returning,Bengaluru,Organic,Festival Sale
+S00577,C00561,2026-05-30 00:00:00,Mobile,Returning,Mumbai,Direct,Festival Sale
+S00578,C00110,2026-07-29 00:00:00,Mobile,New,Pune,Referral,Festival Sale
+S00579,C00196,2026-08-23 00:00:00,Desktop,New,Gurugram,Organic,Summer Sale
+S00580,C00462,2026-03-05 00:00:00,Mobile,Returning,Chennai,Organic,Festival Sale
+S00581,C00050,2026-09-29 00:00:00,Mobile,New,Kolkata,Social Media,Summer Sale
+S00582,C00593,2026-04-01 00:00:00,Mobile,Returning,Pune,Paid Search,Summer Sale
+S00583,C00517,2026-06-14 00:00:00,Desktop,New,Kolkata,Direct,New User Offer
+S00584,C00408,2026-05-21 00:00:00,Tablet,Returning,Noida,Direct,Unknown
+S00585,C00307,2026-09-20 00:00:00,Desktop,New,Delhi,Email,Flash Sale
+S00586,C00206,2026-04-22 00:00:00,Mobile,Returning,Ahmedabad,Paid Search,New User Offer
+S00587,C00516,2026-04-02 00:00:00,Mobile,Returning,Jaipur,Organic,Festival Sale
+S00588,C00597,2026-09-03 00:00:00,Mobile,Returning,Gurugram,Email,Retargeting
+S00589,C00293,2026-10-01 00:00:00,Desktop,New,Mumbai,Social Media,Unknown
+S00590,C00055,2026-03-16 00:00:00,Desktop,New,Indore,Direct,Flash Sale
+S00591,C00150,2026-05-09 00:00:00,Desktop,Returning,Hyderabad,Organic,Summer Sale
+S00592,C00464,2026-07-03 00:00:00,Mobile,Returning,Jaipur,Social Media,Unknown
+S00593,C00244,2026-07-19 00:00:00,Mobile,Returning,Jaipur,Paid Search,New User Offer
+S00594,C00397,2026-07-15 00:00:00,Mobile,Returning,Ahmedabad,Paid Search,Summer Sale
+S00595,C00258,2026-01-07 00:00:00,Mobile,Returning,Nashik,Direct,Retargeting
+S00596,C00603,2026-07-08 00:00:00,Mobile,Returning,Indore,Email,Unknown
+S00597,C00182,2026-08-18 00:00:00,Tablet,New,Nagpur,Email,Unknown
+S00598,C00439,2026-01-21 00:00:00,Mobile,New,Nagpur,Social Media,Unknown
+S00599,C00478,2026-06-19 00:00:00,Desktop,New,Nagpur,Referral,Summer Sale
+S00600,C00503,2026-06-04 00:00:00,Desktop,New,Pune,Direct,Unknown
+S00601,C00189,2026-04-23 00:00:00,Mobile,Returning,Nagpur,Paid Search,Summer Sale
+S00602,C00358,2026-02-17 00:00:00,Mobile,New,Delhi,Paid Search,Unknown
+S00603,C00487,2026-09-29 00:00:00,Tablet,Returning,Ahmedabad,Organic,New User Offer
+S00604,C00247,2026-08-17 00:00:00,Desktop,Returning,Kolkata,Organic,Unknown
+S00605,C00391,2026-06-14 00:00:00,Desktop,Returning,Gurugram,Organic,New User Offer
+S00606,C00530,2026-01-13 00:00:00,Desktop,New,Indore,Social Media,Festival Sale
+S00607,C00668,2026-06-01 00:00:00,Mobile,New,Pune,Organic,Flash Sale
+S00608,C00008,2026-10-01 00:00:00,Desktop,New,Ahmedabad,Direct,Retargeting
+S00609,C00107,2026-08-06 00:00:00,Mobile,Returning,Surat,Referral,Retargeting
+S00610,C00158,2026-02-06 00:00:00,Mobile,Returning,Mumbai,Organic,Unknown
+S00611,C00572,2026-05-09 00:00:00,Mobile,Returning,Surat,Organic,Festival Sale
+S00612,C00444,2026-07-27 00:00:00,Mobile,New,Pune,Social Media,Summer Sale
+S00613,C00600,2026-02-02 00:00:00,Mobile,Returning,Delhi,Referral,Unknown
+S00614,C00622,2026-06-04 00:00:00,Mobile,Returning,Noida,Paid Search,Retargeting
+S00615,C00486,2026-01-16 00:00:00,Mobile,New,Jaipur,Paid Search,Retargeting
+S00616,C00650,2026-06-01 00:00:00,Mobile,Returning,Surat,Referral,Retargeting
+S00617,C00012,2026-07-11 00:00:00,Mobile,New,Pune,Organic,Summer Sale
+S00618,C00551,2026-07-21 00:00:00,Mobile,New,Bengaluru,Direct,Flash Sale
+S00619,C00217,2026-06-26 00:00:00,Mobile,Returning,Chennai,Organic,Unknown
+S00620,C00199,2026-05-10 00:00:00,Mobile,Returning,Kolkata,Direct,Retargeting
+S00621,C00661,2026-08-25 00:00:00,Mobile,New,Pune,Organic,Unknown
+S00622,C00339,2026-09-07 00:00:00,Mobile,Returning,Bengaluru,Organic,Summer Sale
+S00623,C00326,2026-04-10 00:00:00,Mobile,New,Ahmedabad,Paid Search,Summer Sale
+S00624,C00324,2026-07-06 00:00:00,Tablet,New,Delhi,Organic,Unknown
+S00625,C00284,2026-08-12 00:00:00,Desktop,New,Jaipur,Paid Search,Festival Sale
+S00626,C00368,2026-08-17 00:00:00,Desktop,New,Pune,Organic,Summer Sale
+S00627,C00144,2026-05-24 00:00:00,Desktop,New,Jaipur,Direct,Unknown
+S00628,C00020,2026-02-08 00:00:00,Desktop,Returning,Nashik,Social Media,Festival Sale
+S00629,C00038,2026-04-19 00:00:00,Mobile,New,Chennai,Social Media,Retargeting
+S00630,C00402,2026-07-07 00:00:00,Mobile,Returning,Jaipur,Direct,Unknown
+S00631,C00523,2026-09-14 00:00:00,Mobile,New,Mumbai,Email,Retargeting
+S00632,C00527,2026-03-26 00:00:00,Mobile,New,Kolkata,Referral,New User Offer
+S00633,C00496,2026-03-16 00:00:00,Tablet,New,Indore,Social Media,Unknown
+S00634,C00240,2026-07-09 00:00:00,Mobile,New,Surat,Direct,Festival Sale
+S00635,C00048,2026-08-21 00:00:00,Mobile,Returning,Pune,Email,Summer Sale
+S00636,C00270,2026-05-21 00:00:00,Mobile,New,Gurugram,Email,Festival Sale
+S00637,C00530,2026-02-09 00:00:00,Mobile,Returning,Bengaluru,Social Media,Festival Sale
+S00638,C00499,2026-06-26 00:00:00,Desktop,Returning,Mumbai,Social Media,Unknown
+S00639,C00236,2026-03-26 00:00:00,Mobile,Returning,Bengaluru,Organic,Unknown
+S00640,C00677,2026-03-02 00:00:00,Mobile,Returning,Jaipur,Organic,New User Offer
+S00641,C00216,2026-09-03 00:00:00,Mobile,Returning,Gurugram,Organic,Unknown
+S00642,C00138,2026-03-24 00:00:00,Desktop,New,Kolkata,Organic,Unknown
+S00643,C00530,2026-04-03 00:00:00,Tablet,Returning,Kolkata,Social Media,Retargeting
+S00644,C00088,2026-05-26 00:00:00,Mobile,Returning,Noida,Direct,Unknown
+S00645,C00616,2026-07-30 00:00:00,Mobile,Returning,Indore,Organic,New User Offer
+S00646,C00172,2026-05-16 00:00:00,Desktop,New,Noida,Social Media,Unknown
+S00647,C00395,2026-07-13 00:00:00,Mobile,New,Chennai,Direct,Summer Sale
+S00648,C00154,2026-08-03 00:00:00,Desktop,New,Surat,Social Media,Unknown
+S00649,C00516,2026-09-30 00:00:00,Desktop,New,Ahmedabad,Organic,Summer Sale
+S00650,C00695,2026-01-01 00:00:00,Desktop,New,Delhi,Direct,New User Offer
+S00651,C00235,2026-08-08 00:00:00,Tablet,New,Indore,Paid Search,Summer Sale
+S00652,C00436,2026-02-20 00:00:00,Mobile,New,Bengaluru,Direct,Unknown
+S00653,C00264,2026-07-29 00:00:00,Mobile,Returning,Indore,Organic,Summer Sale
+S00654,C00008,2026-09-24 00:00:00,Mobile,New,Indore,Paid Search,Festival Sale
+S00655,C00437,2026-03-21 00:00:00,Desktop,New,Nashik,Social Media,Summer Sale
+S00656,C00697,2026-05-22 00:00:00,Mobile,New,Chennai,Direct,Festival Sale
+S00657,C00573,2026-07-09 00:00:00,Mobile,New,Hyderabad,Social Media,Retargeting
+S00658,C00142,2026-07-23 00:00:00,Desktop,Returning,Jaipur,Organic,Retargeting
+S00659,C00103,2026-03-24 00:00:00,Mobile,New,Delhi,Direct,Summer Sale
+S00660,C00165,2026-01-27 00:00:00,Mobile,Returning,Indore,Organic,Unknown
+S00661,C00091,2026-08-11 00:00:00,Mobile,New,Pune,Social Media,New User Offer
+S00662,C00629,2026-07-25 00:00:00,Desktop,New,Kolkata,Organic,Retargeting
+S00663,C00656,2026-03-31 00:00:00,Mobile,New,Nashik,Email,Retargeting
+S00664,C00200,2026-05-27 00:00:00,Mobile,Returning,Chennai,Email,Summer Sale
+S00665,C00369,2026-01-19 00:00:00,Mobile,New,Nagpur,Organic,Unknown
+S00666,C00362,2026-07-24 00:00:00,Desktop,New,Bengaluru,Social Media,New User Offer
+S00667,C00093,2026-02-05 00:00:00,Mobile,Returning,Chennai,Direct,Unknown
+S00668,C00232,2026-05-22 00:00:00,Desktop,New,Surat,Paid Search,Unknown
+S00669,C00417,2026-03-31 00:00:00,Mobile,New,Chennai,Paid Search,Flash Sale
+S00670,C00264,2026-09-20 00:00:00,Desktop,Returning,Kolkata,Organic,Festival Sale
+S00671,C00577,2026-07-13 00:00:00,Mobile,New,Delhi,Referral,Festival Sale
+S00672,C00601,2026-08-24 00:00:00,Desktop,New,Hyderabad,Organic,Summer Sale
+S00673,C00694,2026-04-23 00:00:00,Desktop,Returning,Gurugram,Referral,Summer Sale
+S00674,C00270,2026-01-05 00:00:00,Mobile,New,Ahmedabad,Direct,Unknown
+S00675,C00488,2026-04-02 00:00:00,Mobile,New,Kolkata,Organic,Flash Sale
+S00676,C00511,2026-04-08 00:00:00,Desktop,New,Bengaluru,Direct,Unknown
+S00677,C00256,2026-04-14 00:00:00,Desktop,New,Indore,Organic,Flash Sale
+S00678,C00629,2026-09-10 00:00:00,Mobile,Returning,Mumbai,Direct,Festival Sale
+S00679,C00505,2026-06-11 00:00:00,Desktop,Returning,Kolkata,Direct,Festival Sale
+S00680,C00287,2026-09-19 00:00:00,Mobile,Returning,Nagpur,Organic,Retargeting
+S00681,C00554,2026-09-02 00:00:00,Mobile,New,Nashik,Email,Unknown
+S00682,C00531,2026-03-03 00:00:00,Mobile,Returning,Mumbai,Email,Festival Sale
+S00683,C00334,2026-02-21 00:00:00,Mobile,Returning,Nagpur,Social Media,Unknown
+S00684,C00628,2026-08-30 00:00:00,Mobile,New,Gurugram,Organic,New User Offer
+S00685,C00374,2026-07-10 00:00:00,Desktop,New,Nagpur,Social Media,Flash Sale
+S00686,C00103,2026-04-28 00:00:00,Desktop,Returning,Chennai,Paid Search,Festival Sale
+S00687,C00154,2026-03-16 00:00:00,Mobile,New,Gurugram,Social Media,Flash Sale
+S00688,C00547,2026-09-22 00:00:00,Desktop,Returning,Hyderabad,Organic,Retargeting
+S00689,C00408,2026-01-25 00:00:00,Mobile,New,Bengaluru,Direct,Festival Sale
+S00690,C00461,2026-02-19 00:00:00,Desktop,New,Delhi,Social Media,Flash Sale
+S00691,C00353,2026-05-12 00:00:00,Mobile,New,Nashik,Email,Summer Sale
+S00692,C00292,2026-03-31 00:00:00,Mobile,Returning,Noida,Direct,Festival Sale
+S00693,C00391,2026-02-10 00:00:00,Desktop,New,Nagpur,Direct,Summer Sale
+S00694,C00432,2026-06-22 00:00:00,Desktop,New,Nashik,Direct,Unknown
+S00695,C00234,2026-06-25 00:00:00,Mobile,Returning,Jaipur,Organic,Summer Sale
+S00696,C00456,2026-05-19 00:00:00,Desktop,Returning,Jaipur,Social Media,Flash Sale
+S00697,C00172,2026-07-31 00:00:00,Mobile,New,Jaipur,Organic,Unknown
+S00698,C00216,2026-02-10 00:00:00,Mobile,New,Pune,Referral,Festival Sale
+S00699,C00027,2026-01-28 00:00:00,Desktop,New,Pune,Organic,Summer Sale
+S00700,C00671,2026-02-13 00:00:00,Tablet,New,Bengaluru,Organic,Unknown
+S00701,C00135,2026-03-06 00:00:00,Mobile,New,Mumbai,Email,Retargeting
+S00702,C00488,2026-06-16 00:00:00,Mobile,Returning,Surat,Organic,Festival Sale
+S00703,C00606,2026-04-01 00:00:00,Mobile,Returning,Ahmedabad,Direct,Festival Sale
+S00704,C00318,2026-10-01 00:00:00,Desktop,New,Bengaluru,Direct,Festival Sale
+S00705,C00423,2026-07-07 00:00:00,Mobile,New,Mumbai,Social Media,New User Offer
+S00706,C00353,2026-03-11 00:00:00,Mobile,New,Jaipur,Referral,Flash Sale
+S00707,C00307,2026-09-02 00:00:00,Mobile,New,Hyderabad,Social Media,Retargeting
+S00708,C00194,2026-07-11 00:00:00,Mobile,New,Gurugram,Organic,New User Offer
+S00709,C00388,2026-07-19 00:00:00,Mobile,New,Ahmedabad,Organic,New User Offer
+S00710,C00292,2026-05-20 00:00:00,Desktop,New,Hyderabad,Paid Search,Retargeting
+S00711,C00140,2026-04-04 00:00:00,Mobile,Returning,Kolkata,Paid Search,New User Offer
+S00712,C00193,2026-09-09 00:00:00,Mobile,New,Chennai,Organic,Flash Sale
+S00713,C00276,2026-05-25 00:00:00,Mobile,New,Mumbai,Organic,Unknown
+S00714,C00223,2026-09-10 00:00:00,Mobile,New,Indore,Social Media,Festival Sale
+S00715,C00339,2026-01-17 00:00:00,Mobile,Returning,Nagpur,Organic,Retargeting
+S00716,C00557,2026-02-06 00:00:00,Mobile,New,Nashik,Organic,Festival Sale
+S00717,C00125,2026-01-07 00:00:00,Tablet,Returning,Gurugram,Direct,Festival Sale
+S00718,C00204,2026-01-18 00:00:00,Mobile,Returning,Chennai,Email,Unknown
+S00719,C00698,2026-07-19 00:00:00,Tablet,Returning,Nagpur,Social Media,Unknown
+S00720,C00126,2026-09-24 00:00:00,Mobile,Returning,Bengaluru,Paid Search,Unknown
+S00721,C00116,2026-04-22 00:00:00,Mobile,New,Mumbai,Organic,Unknown
+S00722,C00406,2026-03-03 00:00:00,Desktop,New,Mumbai,Social Media,New User Offer
+S00723,C00381,2026-03-21 00:00:00,Desktop,New,Noida,Organic,Summer Sale
+S00724,C00062,2026-01-31 00:00:00,Mobile,New,Chennai,Direct,Unknown
+S00725,C00325,2026-04-30 00:00:00,Tablet,Returning,Indore,Paid Search,Retargeting
+S00726,C00022,2026-04-09 00:00:00,Desktop,New,Nagpur,Organic,Unknown
+S00727,C00573,2026-08-13 00:00:00,Mobile,Returning,Bengaluru,Social Media,Summer Sale
+S00728,C00480,2026-06-15 00:00:00,Mobile,Returning,Surat,Direct,Unknown
+S00729,C00159,2026-09-29 00:00:00,Mobile,Returning,Chennai,Paid Search,Unknown
+S00730,C00389,2026-09-17 00:00:00,Desktop,Returning,Kolkata,Direct,Retargeting
+S00731,C00329,2026-05-03 00:00:00,Desktop,Returning,Chennai,Direct,Unknown
+S00732,C00565,2026-09-12 00:00:00,Mobile,New,Gurugram,Email,Unknown
+S00733,C00675,2026-09-25 00:00:00,Mobile,Returning,Nagpur,Organic,Unknown
+S00734,C00498,2026-02-24 00:00:00,Mobile,New,Ahmedabad,Direct,New User Offer
+S00735,C00639,2026-09-27 00:00:00,Desktop,New,Delhi,Organic,New User Offer
+S00736,C00214,2026-01-07 00:00:00,Desktop,Returning,Nashik,Organic,Retargeting
+S00737,C00370,2026-02-01 00:00:00,Mobile,Returning,Gurugram,Direct,Retargeting
+S00738,C00632,2026-01-30 00:00:00,Mobile,New,Pune,Direct,Unknown
+S00739,C00532,2026-04-21 00:00:00,Mobile,Returning,Chennai,Paid Search,Unknown
+S00740,C00584,2026-05-08 00:00:00,Desktop,New,Jaipur,Social Media,New User Offer
+S00741,C00691,2026-07-03 00:00:00,Mobile,Returning,Surat,Organic,Retargeting
+S00742,C00517,2026-07-25 00:00:00,Mobile,New,Kolkata,Paid Search,Festival Sale
+S00743,C00564,2026-06-11 00:00:00,Tablet,New,Delhi,Paid Search,Summer Sale
+S00744,C00624,2026-06-15 00:00:00,Mobile,New,Gurugram,Direct,Flash Sale
+S00745,C00369,2026-05-11 00:00:00,Tablet,New,Gurugram,Organic,Unknown
+S00746,C00611,2026-05-26 00:00:00,Mobile,New,Surat,Paid Search,Unknown
+S00747,C00220,2026-04-24 00:00:00,Desktop,New,Nashik,Referral,Retargeting
+S00748,C00570,2026-09-19 00:00:00,Mobile,New,Pune,Organic,Festival Sale
+S00749,C00272,2026-03-12 00:00:00,Mobile,Returning,Bengaluru,Organic,Unknown
+S00750,C00583,2026-07-24 00:00:00,Desktop,Returning,Jaipur,Paid Search,Festival Sale
+S00751,C00591,2026-09-07 00:00:00,Desktop,New,Ahmedabad,Paid Search,New User Offer
+S00752,C00081,2026-07-15 00:00:00,Desktop,Returning,Delhi,Paid Search,Retargeting
+S00753,C00124,2026-08-02 00:00:00,Desktop,New,Ahmedabad,Direct,Flash Sale
+S00754,C00056,2026-07-15 00:00:00,Mobile,New,Chennai,Social Media,Unknown
+S00755,C00157,2026-04-24 00:00:00,Mobile,Returning,Gurugram,Referral,New User Offer
+S00756,C00093,2026-09-16 00:00:00,Mobile,New,Gurugram,Organic,Unknown
+S00757,C00586,2026-09-01 00:00:00,Desktop,New,Hyderabad,Organic,Summer Sale
+S00758,C00139,2026-03-08 00:00:00,Mobile,New,Gurugram,Email,Unknown
+S00759,C00253,2026-09-26 00:00:00,Mobile,New,Gurugram,Paid Search,Flash Sale
+S00760,C00116,2026-02-15 00:00:00,Desktop,New,Delhi,Organic,Unknown
+S00761,C00313,2026-01-13 00:00:00,Mobile,New,Nashik,Referral,Festival Sale
+S00762,C00452,2026-03-16 00:00:00,Mobile,Returning,Bengaluru,Email,Unknown
+S00763,C00116,2026-02-13 00:00:00,Desktop,New,Kolkata,Referral,Retargeting
+S00764,C00015,2026-05-28 00:00:00,Mobile,Returning,Hyderabad,Paid Search,Unknown
+S00765,C00551,2026-04-18 00:00:00,Mobile,New,Indore,Organic,Festival Sale
+S00766,C00685,2026-03-14 00:00:00,Mobile,Returning,Ahmedabad,Social Media,Unknown
+S00767,C00291,2026-01-31 00:00:00,Mobile,Returning,Hyderabad,Organic,New User Offer
+S00768,C00069,2026-01-05 00:00:00,Mobile,New,Nashik,Direct,Festival Sale
+S00769,C00020,2026-02-25 00:00:00,Mobile,Returning,Gurugram,Organic,Festival Sale
+S00770,C00324,2026-02-20 00:00:00,Mobile,Returning,Pune,Organic,Summer Sale
+S00771,C00575,2026-08-23 00:00:00,Tablet,New,Bengaluru,Referral,Unknown
+S00772,C00403,2026-09-08 00:00:00,Desktop,New,Ahmedabad,Paid Search,Summer Sale
+S00773,C00514,2026-05-01 00:00:00,Mobile,New,Hyderabad,Direct,Retargeting
+S00774,C00569,2026-01-16 00:00:00,Tablet,New,Delhi,Direct,New User Offer
+S00775,C00392,2026-02-14 00:00:00,Mobile,Returning,Nashik,Social Media,Unknown
+S00776,C00587,2026-05-04 00:00:00,Mobile,Returning,Surat,Social Media,Festival Sale
+S00777,C00212,2026-03-09 00:00:00,Desktop,Returning,Ahmedabad,Direct,Retargeting
+S00778,C00537,2026-06-08 00:00:00,Desktop,New,Surat,Referral,Unknown
+S00779,C00326,2026-03-22 00:00:00,Mobile,New,Jaipur,Organic,Unknown
+S00780,C00031,2026-03-16 00:00:00,Desktop,Returning,Gurugram,Referral,Unknown
+S00781,C00156,2026-05-21 00:00:00,Desktop,New,Nagpur,Organic,Flash Sale
+S00782,C00621,2026-05-17 00:00:00,Mobile,New,Bengaluru,Organic,Unknown
+S00783,C00489,2026-02-10 00:00:00,Mobile,Returning,Noida,Email,Festival Sale
+S00784,C00504,2026-07-18 00:00:00,Mobile,New,Bengaluru,Organic,New User Offer
+S00785,C00277,2026-01-08 00:00:00,Tablet,New,Ahmedabad,Referral,New User Offer
+S00786,C00182,2026-02-03 00:00:00,Tablet,Returning,Nashik,Social Media,New User Offer
+S00787,C00253,2026-08-23 00:00:00,Mobile,Returning,Kolkata,Email,Festival Sale
+S00788,C00404,2026-06-10 00:00:00,Desktop,Returning,Kolkata,Social Media,Summer Sale
+S00789,C00534,2026-01-20 00:00:00,Mobile,New,Surat,Organic,Flash Sale
+S00790,C00551,2026-09-23 00:00:00,Mobile,Returning,Chennai,Paid Search,New User Offer
+S00791,C00195,2026-01-26 00:00:00,Mobile,New,Hyderabad,Direct,Unknown
+S00792,C00433,2026-03-27 00:00:00,Mobile,Returning,Jaipur,Social Media,Unknown
+S00793,C00093,2026-08-20 00:00:00,Desktop,New,Indore,Social Media,Retargeting
+S00794,C00403,2026-03-11 00:00:00,Mobile,New,Nagpur,Paid Search,Retargeting
+S00795,C00466,2026-04-14 00:00:00,Mobile,New,Ahmedabad,Direct,Retargeting
+S00796,C00094,2026-03-05 00:00:00,Mobile,New,Delhi,Organic,New User Offer
+S00797,C00627,2026-09-19 00:00:00,Tablet,New,Gurugram,Organic,Unknown
+S00798,C00580,2026-06-21 00:00:00,Desktop,Returning,Nagpur,Direct,Unknown
+S00799,C00430,2026-01-27 00:00:00,Mobile,Returning,Noida,Paid Search,Unknown
+S00800,C00208,2026-03-09 00:00:00,Mobile,Returning,Mumbai,Paid Search,Retargeting
+S00801,C00623,2026-01-03 00:00:00,Desktop,New,Kolkata,Email,Festival Sale
+S00802,C00082,2026-08-15 00:00:00,Desktop,New,Surat,Social Media,Summer Sale
+S00803,C00051,2026-04-17 00:00:00,Mobile,New,Delhi,Organic,Retargeting
+S00804,C00340,2026-06-02 00:00:00,Tablet,New,Gurugram,Referral,Unknown
+S00805,C00626,2026-05-26 00:00:00,Desktop,Returning,Kolkata,Direct,Unknown
+S00806,C00593,2026-08-22 00:00:00,Mobile,New,Indore,Paid Search,Festival Sale
+S00807,C00070,2026-07-14 00:00:00,Desktop,Returning,Pune,Paid Search,Unknown
+S00808,C00338,2026-05-21 00:00:00,Mobile,New,Jaipur,Organic,Unknown
+S00809,C00090,2026-09-28 00:00:00,Mobile,Returning,Surat,Direct,New User Offer
+S00810,C00624,2026-08-07 00:00:00,Desktop,New,Kolkata,Referral,Festival Sale
+S00811,C00630,2026-03-08 00:00:00,Mobile,New,Ahmedabad,Social Media,Retargeting
+S00812,C00298,2026-04-30 00:00:00,Tablet,New,Mumbai,Social Media,Retargeting
+S00813,C00631,2026-04-17 00:00:00,Tablet,New,Delhi,Paid Search,Retargeting
+S00814,C00012,2026-04-19 00:00:00,Desktop,Returning,Hyderabad,Direct,Unknown
+S00815,C00564,2026-09-17 00:00:00,Mobile,New,Ahmedabad,Paid Search,Festival Sale
+S00816,C00180,2026-01-15 00:00:00,Mobile,Returning,Surat,Email,Flash Sale
+S00817,C00662,2026-01-19 00:00:00,Mobile,New,Noida,Direct,Summer Sale
+S00818,C00474,2026-06-21 00:00:00,Desktop,New,Jaipur,Organic,Summer Sale
+S00819,C00569,2026-06-11 00:00:00,Mobile,New,Ahmedabad,Paid Search,Flash Sale
+S00820,C00068,2026-07-01 00:00:00,Tablet,New,Mumbai,Paid Search,Festival Sale
+S00821,C00170,2026-10-01 00:00:00,Mobile,New,Kolkata,Organic,Retargeting
+S00822,C00323,2026-06-07 00:00:00,Desktop,New,Pune,Social Media,Unknown
+S00823,C00310,2026-08-20 00:00:00,Mobile,New,Pune,Paid Search,Unknown
+S00824,C00095,2026-04-14 00:00:00,Mobile,New,Noida,Direct,Unknown
+S00825,C00496,2026-06-24 00:00:00,Desktop,New,Indore,Paid Search,New User Offer
+S00826,C00529,2026-02-20 00:00:00,Desktop,New,Jaipur,Organic,Festival Sale
+S00827,C00119,2026-09-25 00:00:00,Mobile,Returning,Ahmedabad,Direct,Retargeting
+S00828,C00479,2026-06-20 00:00:00,Desktop,New,Indore,Email,Unknown
+S00829,C00655,2026-06-09 00:00:00,Desktop,New,Bengaluru,Paid Search,Summer Sale
+S00830,C00688,2026-08-14 00:00:00,Mobile,New,Hyderabad,Organic,Flash Sale
+S00831,C00105,2026-09-21 00:00:00,Mobile,New,Delhi,Organic,Flash Sale
+S00832,C00588,2026-05-26 00:00:00,Mobile,New,Kolkata,Direct,Summer Sale
+S00833,C00134,2026-01-26 00:00:00,Mobile,Returning,Mumbai,Organic,Unknown
+S00834,C00402,2026-08-07 00:00:00,Mobile,Returning,Kolkata,Social Media,New User Offer
+S00835,C00632,2026-08-17 00:00:00,Mobile,New,Bengaluru,Email,New User Offer
+S00836,C00081,2026-10-01 00:00:00,Tablet,Returning,Noida,Social Media,Unknown
+S00837,C00100,2026-08-28 00:00:00,Mobile,Returning,Jaipur,Direct,Festival Sale
+S00838,C00148,2026-04-25 00:00:00,Desktop,Returning,Surat,Paid Search,Unknown
+S00839,C00333,2026-06-19 00:00:00,Mobile,New,Noida,Organic,Festival Sale
+S00840,C00290,2026-03-29 00:00:00,Desktop,Returning,Nagpur,Social Media,Festival Sale
+S00841,C00334,2026-02-24 00:00:00,Mobile,New,Hyderabad,Social Media,Festival Sale
+S00842,C00245,2026-07-31 00:00:00,Desktop,New,Noida,Paid Search,Unknown
+S00843,C00446,2026-08-09 00:00:00,Mobile,New,Jaipur,Organic,New User Offer
+S00844,C00588,2026-02-09 00:00:00,Desktop,New,Kolkata,Social Media,Summer Sale
+S00845,C00181,2026-08-16 00:00:00,Mobile,New,Kolkata,Organic,Retargeting
+S00846,C00336,2026-07-14 00:00:00,Mobile,Returning,Pune,Organic,Unknown
+S00847,C00151,2026-01-01 00:00:00,Desktop,New,Hyderabad,Paid Search,Summer Sale
+S00848,C00211,2026-04-11 00:00:00,Desktop,New,Kolkata,Direct,New User Offer
+S00849,C00353,2026-08-11 00:00:00,Tablet,Returning,Kolkata,Referral,Festival Sale
+S00850,C00302,2026-03-07 00:00:00,Mobile,Returning,Mumbai,Organic,Summer Sale
+S00851,C00113,2026-07-03 00:00:00,Desktop,Returning,Bengaluru,Paid Search,Summer Sale
+S00852,C00392,2026-06-12 00:00:00,Mobile,New,Bengaluru,Email,Festival Sale
+S00853,C00569,2026-04-07 00:00:00,Mobile,Returning,Nashik,Paid Search,Unknown
+S00854,C00138,2026-03-06 00:00:00,Mobile,Returning,Nagpur,Email,Festival Sale
+S00855,C00140,2026-08-12 00:00:00,Mobile,Returning,Gurugram,Direct,Retargeting
+S00856,C00639,2026-08-06 00:00:00,Mobile,New,Chennai,Direct,Festival Sale
+S00857,C00191,2026-04-26 00:00:00,Mobile,New,Noida,Direct,Unknown
+S00858,C00276,2026-09-14 00:00:00,Mobile,New,Delhi,Organic,Unknown
+S00859,C00378,2026-09-05 00:00:00,Mobile,New,Jaipur,Organic,New User Offer
+S00860,C00287,2026-09-27 00:00:00,Mobile,New,Surat,Social Media,Unknown
+S00861,C00649,2026-02-09 00:00:00,Mobile,New,Kolkata,Organic,Unknown
+S00862,C00481,2026-01-06 00:00:00,Mobile,Returning,Kolkata,Email,Festival Sale
+S00863,C00297,2026-05-31 00:00:00,Mobile,Returning,Kolkata,Direct,New User Offer
+S00864,C00063,2026-05-14 00:00:00,Desktop,New,Kolkata,Organic,Flash Sale
+S00865,C00294,2026-01-14 00:00:00,Mobile,New,Pune,Direct,Unknown
+S00866,C00631,2026-03-09 00:00:00,Mobile,Returning,Mumbai,Direct,Summer Sale
+S00867,C00675,2026-03-19 00:00:00,Mobile,Returning,Hyderabad,Direct,Unknown
+S00868,C00541,2026-04-03 00:00:00,Desktop,New,Pune,Referral,Summer Sale
+S00869,C00508,2026-03-20 00:00:00,Desktop,New,Gurugram,Organic,Festival Sale
+S00870,C00216,2026-03-27 00:00:00,Mobile,Returning,Mumbai,Email,New User Offer
+S00871,C00054,2026-03-01 00:00:00,Mobile,New,Hyderabad,Social Media,Flash Sale
+S00872,C00240,2026-09-30 00:00:00,Mobile,Returning,Noida,Organic,Summer Sale
+S00873,C00013,2026-08-11 00:00:00,Mobile,Returning,Gurugram,Email,Flash Sale
+S00874,C00100,2026-01-22 00:00:00,Desktop,Returning,Nashik,Paid Search,Flash Sale
+S00875,C00344,2026-05-20 00:00:00,Mobile,Returning,Hyderabad,Email,Festival Sale
+S00876,C00689,2026-05-04 00:00:00,Mobile,New,Delhi,Email,Flash Sale
+S00877,C00561,2026-06-10 00:00:00,Mobile,New,Pune,Organic,Unknown
+S00878,C00457,2026-02-23 00:00:00,Mobile,Returning,Hyderabad,Organic,Unknown
+S00879,C00059,2026-02-17 00:00:00,Tablet,Returning,Nashik,Organic,Summer Sale
+S00880,C00123,2026-03-04 00:00:00,Mobile,Returning,Gurugram,Email,Retargeting
+S00881,C00114,2026-04-05 00:00:00,Desktop,New,Noida,Email,Unknown
+S00882,C00284,2026-08-21 00:00:00,Desktop,Returning,Ahmedabad,Direct,Unknown
+S00883,C00076,2026-03-24 00:00:00,Mobile,New,Gurugram,Paid Search,Unknown
+S00884,C00183,2026-05-16 00:00:00,Mobile,New,Surat,Organic,Festival Sale
+S00885,C00112,2026-09-09 00:00:00,Mobile,Returning,Bengaluru,Social Media,Unknown
+S00886,C00266,2026-08-15 00:00:00,Mobile,New,Kolkata,Email,Retargeting
+S00887,C00510,2026-01-10 00:00:00,Mobile,Returning,Surat,Organic,Festival Sale
+S00888,C00338,2026-03-19 00:00:00,Desktop,New,Chennai,Email,Retargeting
+S00889,C00447,2026-09-02 00:00:00,Mobile,Returning,Indore,Direct,Summer Sale
+S00890,C00394,2026-01-02 00:00:00,Tablet,Returning,Noida,Organic,Summer Sale
+S00891,C00342,2026-07-03 00:00:00,Desktop,New,Ahmedabad,Referral,Summer Sale
+S00892,C00548,2026-07-07 00:00:00,Desktop,New,Nashik,Paid Search,New User Offer
+S00893,C00181,2026-04-14 00:00:00,Mobile,Returning,Ahmedabad,Organic,New User Offer
+S00894,C00646,2026-02-24 00:00:00,Desktop,New,Surat,Social Media,New User Offer
+S00895,C00037,2026-03-13 00:00:00,Mobile,Returning,Kolkata,Organic,Festival Sale
+S00896,C00512,2026-06-07 00:00:00,Mobile,Returning,Noida,Referral,Unknown
+S00897,C00058,2026-06-23 00:00:00,Mobile,Returning,Gurugram,Organic,Retargeting
+S00898,C00470,2026-09-25 00:00:00,Tablet,Returning,Chennai,Organic,Summer Sale
+S00899,C00038,2026-02-06 00:00:00,Desktop,New,Mumbai,Social Media,Flash Sale
+S00900,C00249,2026-01-24 00:00:00,Desktop,New,Nagpur,Social Media,Flash Sale
+S00901,C00468,2026-02-19 00:00:00,Desktop,Returning,Pune,Direct,Unknown
+S00902,C00610,2026-09-12 00:00:00,Desktop,New,Indore,Organic,Unknown
+S00903,C00333,2026-07-25 00:00:00,Mobile,Returning,Chennai,Organic,Retargeting
+S00904,C00047,2026-04-20 00:00:00,Mobile,New,Pune,Organic,New User Offer
+S00905,C00379,2026-03-28 00:00:00,Mobile,New,Surat,Social Media,Unknown
+S00906,C00162,2026-07-12 00:00:00,Mobile,New,Mumbai,Organic,Flash Sale
+S00907,C00427,2026-05-26 00:00:00,Desktop,Returning,Noida,Email,Unknown
+S00908,C00536,2026-05-19 00:00:00,Mobile,New,Nagpur,Social Media,Unknown
+S00909,C00512,2026-04-03 00:00:00,Desktop,New,Nashik,Direct,Unknown
+S00910,C00572,2026-01-03 00:00:00,Mobile,New,Chennai,Referral,Summer Sale
+S00911,C00225,2026-09-17 00:00:00,Mobile,Returning,Bengaluru,Organic,Unknown
+S00912,C00486,2026-03-18 00:00:00,Mobile,New,Surat,Organic,Summer Sale
+S00913,C00215,2026-05-26 00:00:00,Mobile,New,Indore,Direct,Festival Sale
+S00914,C00054,2026-02-23 00:00:00,Tablet,New,Indore,Organic,Summer Sale
+S00915,C00241,2026-02-06 00:00:00,Desktop,Returning,Delhi,Paid Search,New User Offer
+S00916,C00236,2026-06-16 00:00:00,Desktop,New,Pune,Organic,Festival Sale
+S00917,C00385,2026-04-13 00:00:00,Desktop,New,Kolkata,Social Media,Retargeting
+S00918,C00222,2026-03-16 00:00:00,Tablet,New,Gurugram,Paid Search,Festival Sale
+S00919,C00648,2026-04-10 00:00:00,Mobile,New,Delhi,Organic,New User Offer
+S00920,C00288,2026-01-31 00:00:00,Mobile,Returning,Noida,Paid Search,New User Offer
+S00921,C00303,2026-04-23 00:00:00,Desktop,Returning,Ahmedabad,Referral,Flash Sale
+S00922,C00089,2026-04-28 00:00:00,Mobile,New,Nashik,Referral,Summer Sale
+S00923,C00286,2026-08-25 00:00:00,Mobile,New,Nashik,Organic,Unknown
+S00924,C00606,2026-04-24 00:00:00,Tablet,Returning,Surat,Organic,Flash Sale
+S00925,C00482,2026-01-21 00:00:00,Desktop,New,Gurugram,Social Media,Festival Sale
+S00926,C00464,2026-02-20 00:00:00,Mobile,New,Indore,Organic,New User Offer
+S00927,C00136,2026-04-22 00:00:00,Mobile,New,Pune,Organic,New User Offer
+S00928,C00471,2026-03-24 00:00:00,Desktop,Returning,Mumbai,Referral,Festival Sale
+S00929,C00416,2026-03-12 00:00:00,Mobile,Returning,Ahmedabad,Social Media,Summer Sale
+S00930,C00395,2026-02-06 00:00:00,Desktop,New,Mumbai,Paid Search,New User Offer
+S00931,C00083,2026-04-17 00:00:00,Desktop,New,Surat,Organic,Flash Sale
+S00932,C00053,2026-07-06 00:00:00,Mobile,New,Kolkata,Organic,Festival Sale
+S00933,C00575,2026-02-04 00:00:00,Desktop,New,Delhi,Organic,Unknown
+S00934,C00595,2026-09-02 00:00:00,Desktop,Returning,Indore,Direct,Unknown
+S00935,C00274,2026-06-30 00:00:00,Mobile,New,Mumbai,Organic,Unknown
+S00936,C00514,2026-09-06 00:00:00,Mobile,New,Jaipur,Social Media,Retargeting
+S00937,C00463,2026-05-30 00:00:00,Desktop,Returning,Jaipur,Direct,Flash Sale
+S00938,C00193,2026-02-03 00:00:00,Desktop,New,Pune,Paid Search,Unknown
+S00939,C00112,2026-02-09 00:00:00,Mobile,New,Nagpur,Social Media,Retargeting
+S00940,C00643,2026-09-24 00:00:00,Mobile,New,Ahmedabad,Social Media,Unknown
+S00941,C00431,2026-06-27 00:00:00,Mobile,Returning,Hyderabad,Organic,Unknown
+S00942,C00533,2026-04-29 00:00:00,Desktop,New,Delhi,Email,Retargeting
+S00943,C00608,2026-09-06 00:00:00,Desktop,New,Chennai,Paid Search,Unknown
+S00944,C00314,2026-03-09 00:00:00,Mobile,New,Noida,Paid Search,Unknown
+S00945,C00152,2026-01-25 00:00:00,Mobile,New,Nagpur,Social Media,Unknown
+S00946,C00187,2026-05-27 00:00:00,Tablet,Returning,Jaipur,Direct,Retargeting
+S00947,C00244,2026-03-24 00:00:00,Mobile,Returning,Kolkata,Organic,Unknown
+S00948,C00211,2026-04-05 00:00:00,Mobile,New,Delhi,Referral,Unknown
+S00949,C00553,2026-08-18 00:00:00,Tablet,New,Pune,Referral,Festival Sale
+S00950,C00149,2026-09-13 00:00:00,Tablet,Returning,Nagpur,Organic,New User Offer
+S00951,C00340,2026-09-17 00:00:00,Desktop,New,Surat,Paid Search,Flash Sale
+S00952,C00579,2026-03-17 00:00:00,Desktop,Returning,Delhi,Email,New User Offer
+S00953,C00143,2026-01-21 00:00:00,Desktop,New,Mumbai,Paid Search,Retargeting
+S00954,C00366,2026-08-17 00:00:00,Mobile,New,Ahmedabad,Organic,Summer Sale
+S00955,C00201,2026-05-23 00:00:00,Mobile,New,Noida,Email,Flash Sale
+S00956,C00404,2026-09-20 00:00:00,Mobile,New,Kolkata,Social Media,Unknown
+S00957,C00408,2026-07-04 00:00:00,Mobile,Returning,Delhi,Paid Search,Unknown
+S00958,C00360,2026-06-26 00:00:00,Mobile,New,Chennai,Organic,New User Offer
+S00959,C00426,2026-08-16 00:00:00,Desktop,New,Indore,Email,Retargeting
+S00960,C00143,2026-08-01 00:00:00,Desktop,Returning,Nagpur,Organic,Festival Sale
+S00961,C00344,2026-09-26 00:00:00,Mobile,Returning,Indore,Paid Search,Unknown
+S00962,C00425,2026-05-20 00:00:00,Mobile,New,Kolkata,Direct,Unknown
+S00963,C00391,2026-04-06 00:00:00,Mobile,New,Nashik,Direct,Retargeting
+S00964,C00506,2026-06-05 00:00:00,Mobile,New,Mumbai,Direct,Unknown
+S00965,C00656,2026-06-03 00:00:00,Desktop,New,Ahmedabad,Email,Unknown
+S00966,C00504,2026-04-02 00:00:00,Desktop,Returning,Mumbai,Organic,Unknown
+S00967,C00614,2026-02-04 00:00:00,Desktop,Returning,Kolkata,Paid Search,Unknown
+S00968,C00123,2026-09-01 00:00:00,Mobile,Returning,Mumbai,Direct,Unknown
+S00969,C00150,2026-01-30 00:00:00,Mobile,Returning,Nagpur,Paid Search,Unknown
+S00970,C00430,2026-07-04 00:00:00,Desktop,Returning,Mumbai,Paid Search,Summer Sale
+S00971,C00527,2026-02-09 00:00:00,Mobile,Returning,Indore,Organic,New User Offer
+S00972,C00324,2026-06-15 00:00:00,Desktop,Returning,Hyderabad,Organic,New User Offer
+S00973,C00099,2026-07-05 00:00:00,Mobile,New,Nagpur,Organic,Summer Sale
+S00974,C00497,2026-07-10 00:00:00,Mobile,Returning,Nagpur,Organic,Unknown
+S00975,C00193,2026-04-24 00:00:00,Desktop,New,Jaipur,Direct,Summer Sale
+S00976,C00565,2026-09-30 00:00:00,Desktop,Returning,Gurugram,Social Media,Unknown
+S00977,C00018,2026-03-09 00:00:00,Mobile,New,Delhi,Organic,Festival Sale
+S00978,C00351,2026-09-25 00:00:00,Mobile,New,Jaipur,Direct,Unknown
+S00979,C00233,2026-03-14 00:00:00,Mobile,New,Pune,Paid Search,New User Offer
+S00980,C00080,2026-02-27 00:00:00,Mobile,New,Gurugram,Organic,Unknown
+S00981,C00608,2026-09-20 00:00:00,Mobile,New,Hyderabad,Organic,Unknown
+S00982,C00099,2026-01-06 00:00:00,Desktop,Returning,Bengaluru,Social Media,Unknown
+S00983,C00030,2026-06-29 00:00:00,Mobile,Returning,Hyderabad,Referral,Unknown
+S00984,C00513,2026-03-24 00:00:00,Desktop,Returning,Chennai,Social Media,Unknown
+S00985,C00542,2026-01-08 00:00:00,Mobile,New,Hyderabad,Organic,New User Offer
+S00986,C00102,2026-01-03 00:00:00,Tablet,Returning,Nashik,Email,Festival Sale
+S00987,C00451,2026-04-05 00:00:00,Desktop,New,Nashik,Paid Search,Festival Sale
+S00988,C00527,2026-04-20 00:00:00,Mobile,New,Delhi,Organic,Unknown
+S00989,C00508,2026-03-11 00:00:00,Desktop,Returning,Chennai,Email,Unknown
+S00990,C00119,2026-09-10 00:00:00,Mobile,New,Jaipur,Paid Search,Flash Sale
+S00991,C00232,2026-08-16 00:00:00,Mobile,New,Nashik,Paid Search,Retargeting
+S00992,C00696,2026-09-01 00:00:00,Mobile,New,Ahmedabad,Social Media,Unknown
+S00993,C00536,2026-08-13 00:00:00,Desktop,New,Nagpur,Paid Search,New User Offer
+S00994,C00173,2026-02-22 00:00:00,Mobile,Returning,Delhi,Organic,Retargeting
+S00995,C00126,2026-07-26 00:00:00,Mobile,New,Noida,Organic,New User Offer
+S00996,C00660,2026-05-20 00:00:00,Tablet,New,Ahmedabad,Social Media,Festival Sale
+S00997,C00524,2026-09-06 00:00:00,Mobile,Returning,Pune,Organic,Festival Sale
+S00998,C00644,2026-04-29 00:00:00,Tablet,New,Jaipur,Organic,Unknown
+S00999,C00184,2026-01-14 00:00:00,Mobile,Returning,Nagpur,Paid Search,Summer Sale
+S01000,C00677,2026-02-09 00:00:00,Desktop,Returning,Indore,Social Media,Unknown
